@@ -363,7 +363,8 @@ CLIT-QST-MA ;
 
 LEXICON CLIT-MODASS
 
-%+ǵoy%<mod_ass%>:% %{G%}oy # ;
+!%+ǵoy%<mod_ass%>:% %{G%}oy # ;  ! FIXME: CHECK
+%+ǵo%<mod%>:ǵo # ;
 # ;
 
 LEXICON CLIT-GHANA-ETC
