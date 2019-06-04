@@ -7,8 +7,8 @@ abadan 	A2	adaban	adaban	obodon
 abadanlastır 	V-TV 	abadanlastır	abadanlastır	
 abadanlıq	N1 	abadanlıq	abadanlıq	
 abajur	N1 	abajur	abajur	abajur
-abazinli	n1-nat	abazinli	abazinli	abazinlik
-abay	a2	abay 	abay 	do‘q
+abazinli	N1-NAT	abazinli	abazinli	abazinlik
+abay	A2	abay 	abay 	do‘q
 abay et	V-IV	abay et 	abay et 	do‘q qilmoq;qo‘rqitmoq;tahdid qilmoq;xavf tug‘dirmoq
 abayla	V-TV	abayla	abayla	
 abaylat	V-TV-CAUS	abaylat	abaylat	
@@ -22,7 +22,7 @@ abat	A2	abat	abat
 abatla	V-TV	abatla	abatla	
 abatlan	V-IV-REFL	abatlan	abatlan	
 abatlandır	V-TV-CAUS	abatlandır	abatlandır	
-abatlı	a2	abatlı	abatlı	
+abatlı	A2	abatlı	abatlı	
 abatlıq	N1 	abatlıq	abatlıq	
 abatlılıq	N1 	abatlılıq	abatlılıq	
 abzal	A1	abzal	abzal	
@@ -57,8 +57,8 @@ abısın	N1 	abısın	abısın
 abısın-ajın	N1 	abısın-ajın	abısın-ajın	
 avangard	N1 	avangard	avangard	
 avans	N1 	avans	avans	
-avansla	V-tv	avansla	avansla	
-avanslay	adv	avanslay	avanslay	
+avansla	V-TV	avansla	avansla	
+avanslay	ADV	avanslay	avanslay	
 avanslaw	V-TV	avansla	avansla	
 avantyura	N1 	avantyura	avantyura	
 avantyuralıq	A2	avantyuralıq	avantyuralıq	
@@ -78,7 +78,7 @@ avipochta	N1 	avipochta	avipochta
 aviator	N1 	aviator	aviator	
 aviaciya	N1 	aviaciya	aviaciya	
 avstraliya	NP-TOP	Avstraliya	Avstraliya	
-avstraliyalı	n1-nat	avstraliyalı	avstraliyalı	
+avstraliyalı	N1-NAT	avstraliyalı	avstraliyalı	
 avstriya	NP-TOP	Avstriya	Avstriya	
 avstriyalı	N1-NAT	avstriyalı	avstriyalı	
 avtobaza	N1 	avtobaza	avtobaza	
@@ -164,9 +164,9 @@ aǵızdır	V-TV-CAUS	aǵızdır	aǵızdır
 aǵızıl	V-TV-CAUS	aǵız	aǵız	
 aǵızıs	V-TV-COOP	aǵızıs	aǵızıs	
 aǵızıw	V-TV-CAUS	aǵız	aǵız	
-aǵıl	V-IV-refl	aǵıl	aǵıl	
+aǵıl	V-IV-REFL	aǵıl	aǵıl	
 aǵıl-tegil	ADV	aǵıl-tegil	aǵıl-tegil	
-aǵılıw	V-IV-refl	aǵıl	aǵıl	
+aǵılıw	V-IV-REFL	aǵıl	aǵıl	
 aǵım	N1	aǵım	aǵım	
 aǵımdaǵı	A2	aǵımdaǵı	aǵımdaǵı	
 aǵın	A2	aǵın	aǵın	
@@ -298,7 +298,7 @@ azap-dozaq	N1	azap-dozaq	azap-dozaq
 azapla	V-TV	azapla	azapla	
 azaplan	V-IV-REFL	azaplan	azaplan	
 azaplandır	V-TV-CAUS	azaplandır	azaplandır	
-azaplanıw	V-IV-RELF	azaplan	azaplan	
+azaplanıw	V-IV-REFL	azaplan	azaplan	
 azaplat	V-TV-CAUS	azaplat	azaplat	
 azaplaw	V-TV	azapla	azapla	
 azaplı	A2	azaplı	azaplı	
@@ -341,9 +341,9 @@ azshılıq	N1	azshılıq	azshılıq
 azı-kem	ADV	azı-kem	azı-kem	
 azıq	N1	azıq	azıq	
 azıq-awqat	N1	azıq-awqat	azıq-awqat	
-azıqlan	V-iv	azıqlan	azıqlan	
+azıqlan	V-IV	azıqlan	azıqlan	
 azıqlandır	V-TV-CAUS	azıqlandır	azıqlandır	
-azıqlı	a2	azıqlı	azıqlı	
+azıqlı	A2	azıqlı	azıqlı	
 azıksız	A1	azıksız	azıksız	
 azıqsızlıq	N1	azıqsızlıq	azıqsızlıq	
 azıq-awqat	N1	azıq-awqat	azıq-awqat	
@@ -384,14 +384,14 @@ aydarsız	A1	aydarsız	aydarsız
 aydarha	N1	aydarha	aydarha	
 aydas	V-TV-COOP	aydas	aydas	
 aydat	V-TV-CAUS	aydat	aydat	
-aydatıw	V-TV-Caus	aydat	aydat	
+aydatıw	V-TV-CAUS	aydat	aydat	
 aydaw	V-TV	ayda	ayda	
 aydawlı	A2	aydawlı	aydawlı	
-aydawshı	V-tv	ayda	ayda	
+aydawshı	V-TV	ayda	ayda	
 aydıllı	A2	aydıllı	aydıllı	
 aydın	N1	aydın	aydın	
 aydınla	V-IV	aydınla	aydınla	
-aydınlat	V-TV-Caus	aydınlat	aydınlat	
+aydınlat	V-TV-CAUS	aydınlat	aydınlat	
 aydınlı	A2	aydınlı	aydınlı	
 ayqay	N1	ayqay	ayqay	
 ayqay sal	V-IV	ayqay sal	ayqay sal	
@@ -454,7 +454,7 @@ aypap-jaypa	V-TV	aypap-jaypa	aypap-jaypa
 ayran	N1	ayran	ayran	
 ayrı	N1	ayrı	ayrı	
 ayrıq	A2	ayrıq	ayrıq	
-ayrıqsha	a1	ayrıqsha	ayrıqsha	
+ayrıqsha	A1	ayrıqsha	ayrıqsha	
 ayrıqshalıq	N1	ayrıqshalıq	ayrıqshalıq	
 ayrıl	V-IV	ayrıl	ayrıl	
 ayrılıs	V-IV-COOP	ayrılıs	ayrılıs	
@@ -503,7 +503,7 @@ ayıpkersizlik	N1	ayıpkersizlik	ayıpkersizlik
 ayıpla	V-TV	ayıpla	ayıpla	
 ayıplan	V-TV	ayıpla	ayıpla	
 ayıplanıw	V-TV	ayıpla	ayıpla	
-ayıplanıwshı	V-tv	ayıpla	ayıpla	
+ayıplanıwshı	V-TV	ayıpla	ayıpla	
 ayıplaw	V-TV	ayıpla	ayıpla	
 ayıplı	A2	ayıplı	ayıplı	
 ayıplılıq	N1	ayıplılıq	ayıplılıq	
@@ -515,7 +515,7 @@ ayırbas	N1	ayırbas	ayırbas
 ayırbasla	V-TV	ayırbasla	ayırbasla	
 ayırbaslaw	V-TV	ayırbasla	ayırbasla	
 ayırǵısh	A2	ayırǵısh	ayırǵısh	
-ayırǵısh	n1	ayırǵısh	ayırǵısh	
+ayırǵısh	N1	ayırǵısh	ayırǵısh	
 ayırma	N1	ayırma	ayırma	
 ayırt	V-TV-CAUS	ayırt	ayırt	
 ayırtıw	V-TV-CAUS	ayırt	ayırt	
@@ -538,7 +538,7 @@ akvarel	N1	akvarel	akvarel
 akvarium	N1	akvarium	akvarium	
 akkompanement	N1	akkompanement	akkompanement	
 akkompanementle	V-IV	akkompanementle	akkompanementle	
-akkompanementlewshi	V-iv	akkompanementle	akkompanementle	
+akkompanementlewshi	V-IV	akkompanementle	akkompanementle	
 akkordeon	N1	akkordeon	akkordeon	
 akkreditiv	N1	akkreditiv	akkreditiv	
 akkumulyator	N1	akkumulyator	akkumulyator	
@@ -579,7 +579,7 @@ aqbilek	N1	aqbilek	aqbilek
 aqqısh	A2	aqqısh	aqqısh	
 aqquw	N1	aqquw	aqquw	
 aqla	V-TV	aqla	aqla	
-aqlan	V-tv	aqla	aqla	
+aqlan	V-TV	aqla	aqla	
 aqlan	V-IV-REFL	aqlan	aqlan	
 aqlanıw	V-IV-REFL	aqlan	aqlan	
 aqlat	V-TV-CAUS	aqlat	aqlat	
@@ -756,7 +756,7 @@ albıratıw	V-TV-CAUS	 albırat	 albırat
 albıraw	V-IV	 albıra	 albıra	
 algebra	N1	 algebra	 algebra	
 algebralıq	A2	 algebralıq	 algebralıq	
-alǵa	adv	alǵa	alǵa	
+alǵa	ADV	alǵa	alǵa	
 alǵarez	ADV	 alǵarez	 alǵarez	
 alǵı-bergi	N1	 alǵı-bergi	 alǵı-bergi	
 alǵır	A2	 alǵır	 alǵır	
@@ -785,7 +785,7 @@ aldır	V-TV-CAUS	 aldır	 aldır
 aldırt	V-TV-CAUS	 aldırt	 aldırt	
 aldırtıw	V-TV-CAUS	 aldırt	 aldırt	
 aldırıl	V-TV-CAUS	 aldır	 aldır	
-aldırıs	V-TV-Coop	 aldırıs	 aldırıs	
+aldırıs	V-TV-COOP	 aldırıs	 aldırıs	
 aldırıw	V-TV-CAUS	 aldır	 aldır	
 aleykim-u-salam	IJ	 aleykim-u-salam	 aleykim-u-salam	
 aljas	V-IV	 aljas	 aljas	
@@ -820,7 +820,7 @@ almastırıw	V-TV-CAUS	 almastır	 almastır
 almasıq	N1	 almasıq	 almasıq	
 almasıl	V-TV	 almas	 almas	
 almasılıw	V-TV	 almas	 almas	
-almasın	V-IF-REFL	 almasın	 almasın	
+almasın	V-IV-REFL	 almasın	 almasın	
 almasıw	V-TV	 almas	 almas	
 almurt	N1	 almurt	 almurt	
 alp	N1	 alp	 alp	
@@ -862,8 +862,8 @@ alımlıq	N1	 alımlıq	 alımlıq
 alımsaq	N1	 alımsaq	 alımsaq	
 alım-salıq	N1	 alım-salıq	 alım-salıq	
 alım-salım	N1	 alım-salım	 alım-salım	
-alın	V-IF-REFL	 alın	 alın	
-alınıw	V-IF-REFL	 alın	 alın	
+alın	V-IV-REFL	 alın	 alın	
+alınıw	V-IV-REFL	 alın	 alın	
 alıńqıra	V-TV	 alıńqıra	 alıńqıra	
 alıp-satar	N1	 alıp-satar	 alıp-satar	
 alıp-satarlık	N1	 alıp-satarlık	 alıp-satarlık	
@@ -884,7 +884,7 @@ alıstır	V-TV-CAUS	 alıstır	 alıstır
 alısıw	V-TV	 alıs	 alıs	
 alısıw	V-IV	 alıs	 alıs	
 alıw	V-TV	 al	 al	
-alıwshı	V-tv	 al	 al	
+alıwshı	V-TV	 al	 al	
 alıwshılıq	N1	 alıwshılıq	 alıwshılıq	
 albom	N1	 albom	 albom	
 almanax	N1	 almanax	 almanax	
@@ -1007,7 +1007,7 @@ ańlılıq	N1	 ańlılıq	 ańlılıq
 ańlıs	V-TV-COOP	 ańlıs	 ańlıs	
 ańlıt	V-TV-CAUS	 ańlıt	 ańlıt	
 ańlıw	V-TV	 ańlı	 ańlı	
-ańlıwshı	V-tv	 ańlı	 ańlı	
+ańlıwshı	V-TV	 ańlı	 ańlı	
 ańra	V-IV	 ańra	 ańra	
 ańray	V-IV	 ańray	 ańray	
 ańrayt	V-TV-CAUS	 ańrayt	 ańrayt	
@@ -1036,7 +1036,7 @@ apay	N1	 apay	 apay
 apaq-shapaq bol	V-IV	apaq-shapaq bol	apaq-shapaq bol	
 apatit	N1	 apatit	 apatit	
 apatlı	A2	 apatlı	 apatlı	
-apattay	n1	 apat	 apat	
+apattay	N1	 apat	 apat	
 ap-awır	A2-SUP	 ap-awır	 ap-awır	
 apellatsiya	N1	 apellatsiya	 apellatsiya	
 apellatsiyalıq	A2	 apellatsiyalıq	 apellatsiyalıq	
@@ -1104,7 +1104,7 @@ arbawshı	N1	 arbawshı	 arbawshı
 arbashı	N1	 arbashı	 arbashı	
 arbitraj	N1	 arbitraj	 arbitraj	
 argument	N1	 argument	 argument	
-arǵı	Adv-attr	 arı	 arı	
+arǵı	ADV-ATTR	 arı	 arı	
 arǵımaq	N1	 arǵımaq	 arǵımaq	
 ardaq	N1	 ardaq	 ardaq	
 ardaqla	V-TV	 ardaqla	 ardaqla	
@@ -1139,7 +1139,7 @@ arqalas	V-TV-COOP	 arqalas	 arqalas
 arqalat	V-TV-CAUS	 arqalat	 arqalat	
 arqalatıw	V-TV-CAUS	 arqalat	 arqalat	
 arqalaw	V-TV	 arqala	 arqala	
-arqalı	POST-nom	 arqalı	 arqalı	
+arqalı	POST-NOM	 arqalı	 arqalı	
 arqalıq	N1	 arqalıq	 arqalıq	
 arqan	N1	 arqan	 arqan	
 arqanla	V-TV	 arqanla	 arqanla	
@@ -1153,7 +1153,7 @@ arqaw	N1	 arqaw	 arqaw
 arqawlıq	N1	 arqawlıq	 arqawlıq	
 arqash	N1	 arqash	 arqash	
 arqa-shıǵıs	N1	 arqa-shıǵıs	 arqa-shıǵıs	
-arqılı	POST-nom	 arqılı	 arqılı	
+arqılı	POST-NOM	 arqılı	 arqılı	
 arqıra	V-IV	 arqıra	 arqıra	
 arqırat	V-TV-CAUS	 arqırat	 arqırat	
 arqıraw	V-IV	 arqıra	 arqıra	
@@ -1215,7 +1215,7 @@ artillerist	N1	 artillerist	 artillerist
 artilleriya	N1	 artilleriya	 artilleriya	
 artilleriyashı	N1	 artilleriyashı	 artilleriyashı	
 artist	N1	 artist	 artist	
-artqa	adv	artqa	artqa	
+artqa	ADV	artqa	artqa	
 artqı	A2	 artqı	 artqı	
 artpaq	N1	 artpaq	 artpaq	
 arttır	V-TV-CAUS	 arttır	 arttır	
@@ -1257,7 +1257,7 @@ arshınlaw	V-TV	 arshınla	 arshınla
 arshıs	V-TV-COOP	 arshıs	 arshıs	
 arshıt	V-TV-CAUS	 arshıt	 arshıt	
 arshıw	V-TV	 arshı	 arshı	
-arı	ADV-attr	 arı	 arı	
+arı	ADV-ATTR	 arı	 arı	
 arı	V-IV	 arı	 arı	
 arı-beri	ADV	 arı-beri	 arı-beri	
 arız	N1	 arız	 arız	
@@ -1280,8 +1280,8 @@ arılt	V-TV-CAUS	 arılt	 arılt
 arıltıw	V-TV-CAUS	 arılt	 arılt	
 arın	V-IV	 arın	 arın	
 arıs	N1	 arıs	 arıs	
-arıslan	n1	 arıslan	 arıslan	
-arıt	V-TV-caus	 arıt	 arıt	
+arıslan	N1	 arıslan	 arıslan	
+arıt	V-TV-CAUS	 arıt	 arıt	
 arıt	V-TV-CAUS	 arıt	 arıt	
 arıtıw	V-TV-CAUS	 arıt	 arıt	
 arıtıw	V-TV-CAUS	 arıt	 arıt	
@@ -1304,7 +1304,7 @@ asqazan	N1	 asqazan	 asqazan
 asqar	N1	 asqar	 asqar	
 asqar	A1	asqar	asqar	
 asqatıq	N1	 asqatıq	 asqatıq	
-asqatıqla	V-tv	 asqatıqla	 asqatıqla	
+asqatıqla	V-TV	 asqatıqla	 asqatıqla	
 asqın	V-IV	 asqın	 asqın	
 asqındır	V-TV-CAUS	 asqındır	 asqındır	
 asqınla	V-IV	 asqınla	 asqınla	
@@ -1356,11 +1356,11 @@ astır	V-TV-CAUS	 astır	 astır
 astır	V-TV-CAUS	 astır	 astır	
 astırt	V-TV-CAUS	 astırt	 astırt	
 astırt	V-TV-CAUS	 astırt	 astırt	
-astırtın	a1	 astırtın	 astırtın	
+astırtın	A1	 astırtın	 astırtın	
 asfalt	N1	 asfalt	 asfalt	
 asfaltla	V-TV	 asfaltla	 asfaltla	
 asfaltlaw	V-TV	 asfaltla	 asfaltla	
-asfaltlı	a1	 asfaltlı	 asfaltlı	
+asfaltlı	A1	 asfaltlı	 asfaltlı	
 asxana	N1	 asxana	 asxana	
 asxanashı	N1	 asxanashı	 asxanashı	
 asıǵıs	N1	 asıǵıs	 asıǵıs	
@@ -1393,9 +1393,9 @@ asırat	V-TV-CAUS	 asırat	 asırat
 asıraw	V-TV	 asıra	 asıra	
 asırǵanlıq	N1	 asırǵanlıq	 asırǵanlıq	
 asırt	V-TV-CAUS	 asırt	 asırt	
-asırıl	V-TV-caus	 asır	 asır	
-asırılıw	V-TV-caus	 asır	 asır	
-asırıw	V-TV-caus	 asır	 asır	
+asırıl	V-TV-CAUS	 asır	 asır	
+asırılıw	V-TV-CAUS	 asır	 asır	
+asırıw	V-TV-CAUS	 asır	 asır	
 asıs	V-IV-COOP	 asıs	 asıs	
 asıs	V-TV-COOP	 asıs	 asıs	
 asıw	V-IV	 as	 as	
@@ -1461,7 +1461,7 @@ atlat	V-TV-CAUS	 atlat	 atlat
 atlattır	V-TV-CAUS	 atlattır	 atlattır	
 atlatıw	V-TV-CAUS	 atlat	 atlat	
 atlaw	N1	atlaw	atlaw	
-atlaw	V-tV	 atla	 atla	
+atlaw	V-TV	 atla	 atla	
 atlet	N1	 atlet	 atlet	
 atletika	N1	 atletika	 atletika	
 atletikalıq	A2	 atletikalıq	 atletikalıq	
@@ -1494,7 +1494,7 @@ atızlıq	N1	 atızlıq	 atızlıq
 atıl	V-IV-REFL	 atıl	 atıl	
 atılıw	V-IV-REFL	 atıl	 atıl	
 atım	N1	 atım	 atım	
-atıs	N1-vn	 atıs	 atıs	
+atıs	N1-VN	 atıs	 atıs	
 atıs	V-TV-COOP	 atıs	 atıs	
 atıstır	V-TV-CAUS	 atıstır	 atıstır	
 atısıw	V-TV-COOP	 atıs	 atıs	
@@ -1514,7 +1514,7 @@ awdar	V-TV-CAUS	 awdar	 awdar
 awdarma	A2	 awdarma	 awdarma	
 awdart	V-TV-CAUS	 awdart	 awdart	
 awdarıl	V-TV-CAUS	 awdar	 awdar	
-awdarıs	N1-vn	 awdarıs	 awdarıs	
+awdarıs	N1-VN	 awdarıs	 awdarıs	
 awdarıs	V-TV-COOP	 awdarıs	 awdarıs	
 awdarıspaq	N1	 awdarıspaq	 awdarıspaq	
 awdarısıw	V-TV-COOP	 awdarıs	 awdarıs	
@@ -1576,7 +1576,7 @@ awızeki	ADV	 awızeki	 awızeki
 awızlan	V-IV	 awızlan	 awızlan	
 awızlandır	V-TV-CAUS	 awızlandır	 awızlandır	
 awızlandırıw	V-TV-CAUS	 awızlandır	 awızlandır	
-awızlanıw	V-iV	 awızlan	 awızlan	
+awızlanıw	V-IV	 awızlan	 awızlan	
 awızlı	A2	 awızlı	 awızlı	
 awızlıq	N1	 awızlıq	 awızlıq	
 awızlıqla	V-TV	 awızlıqla	 awızlıqla	
@@ -1645,8 +1645,8 @@ ashuwlandır	V-TV-CAUS	 ashuwlandır	 ashuwlandır
 ashuwlant	V-TV-CAUS	 ashuwlant	 ashuwlant	
 ashuwlanıs	V-IV-COOP	 ashuwlanıs	 ashuwlanıs	
 ashuwlanısu	V-IV-COOP	 ashuwlanıs	 ashuwlanıs	
-ashuwlanıw	V-tv	 ashuwlan	 ashuwlan	
-ashuwlanıw	V-iv	 ashuwlan	 ashuwlan	
+ashuwlanıw	V-TV	 ashuwlan	 ashuwlan	
+ashuwlanıw	V-IV	 ashuwlan	 ashuwlan	
 ashuwlı	A2	 ashuwlı	 ashuwlı	
 ashuwshaq	A2	 ashuwshaq	 ashuwshaq	
 ashuwshaqlıq	N1	 ashuwshaqlıq	 ashuwshaqlıq	
@@ -1665,7 +1665,7 @@ ashıq	V-IV	 ashıq	 ashıq
 ashıqlıq	N1	 ashıqlıq	 ashıqlıq	
 ashıqlıq	N1	 ashıqlıq	 ashıqlıq	
 ashıl	V-TV	 ash	 ash	
-ashılıs	N1-vn	 ashılıs	 ashılıs	
+ashılıs	N1-VN	 ashılıs	 ashılıs	
 ashılıs	V-IV	 ashılıs	 ashılıs	
 ashılıw	V-TV	 ash	 ash	
 ashın	V-IV-REFL	 ashın	 ashın	
@@ -1676,7 +1676,7 @@ ashıńqıra	V-IV	 ashıńqıra	 ashıńqıra
 ashırqa	V-IV	 ashırqa	 ashırqa	
 ashırqaw	V-IV	 ashırqaw	 ashırqaw	
 ashırqawshılıq	N1	 ashırqawshılıq	 ashırqawshılıq	
-ashıs	V-TV-Coop	 ashıs	 ashıs	
+ashıs	V-TV-COOP	 ashıs	 ashıs	
 ashıt	V-TV-CAUS	 ashıt	 ashıt	
 ashıtqı	N1	 ashıtqı	 ashıtqı	
 ashıtqısh	N1	 ashıtqısh	 ashıtqısh	
@@ -1707,7 +1707,7 @@ ayaqsız	A1	 ayaqsız	 ayaqsız
 ayal	N1	 ayal	 ayal	
 ayan	N1	 ayan	 ayan	
 ayan	A2	 ayan	 ayan	
-ayan	V-IF-REFL	 ayan	 ayan	
+ayan	V-IV-REFL	 ayan	 ayan	
 ayanıw	V-IV-REFL	 ayan	 ayan	
 ayanısh	N1	 ayanısh	 ayanısh	
 ayanıshlı	A2	 ayanıshlı	 ayanıshlı	
@@ -1848,7 +1848,7 @@ ayawshı	V-TV	 aya	 aya
 ámelsiz	A1	 ámelsiz	 ámelsiz	
 ámelsizlik	N1	 ámelsizlik	 ámelsizlik	
 ámenger	N1	 ámenger	 ámenger	
-ámengerlik	n1	 ámengerlik	 ámengerlik	
+ámengerlik	N1	 ámengerlik	 ámengerlik	
 ámengersizlik	N1	 ámengersizlik	 ámengersizlik	
 ámir	N1	 ámir	 ámir	
 ámirul-úmera	N1	 ámirul-úmera	 ámirul-úmera	
@@ -1889,7 +1889,7 @@ ayawshı	V-TV	 aya	 aya
 ásker	N1	 ásker	 ásker	
 áserkiy	A2	 áserkiy	 áserkiy	
 áskerlik	A2	 áskerlik	 áskerlik	
-áskerlik	n1	 áskerlik	 áskerlik	
+áskerlik	N1	 áskerlik	 áskerlik	
 áspek	N1	 áspek	 áspek	
 áste	ADV	 áste	 áste	
 ásteaqırın	ADV	 ásteaqırın	 ásteaqırın	
@@ -1910,8 +1910,8 @@ awelgi	ADV-ATTR	 awel	 awel
 áweli	ADV	 áweli	 áweli	
 áwere	N1	 áwere	 áwere	
 áwerele	V-TV	 áwerele	 áwerele	
-áwerelen	V-IF-REFL	 áwerelen	 áwerelen	
-áwereleniw	V-IF-REFL	 áwerelen	 áwerelen	
+áwerelen	V-IV-REFL	 áwerelen	 áwerelen	
+áwereleniw	V-IV-REFL	 áwerelen	 áwerelen	
 áwerelew	V-TV	 áwerele	 áwerele	
 áwereshilik	N1	 áwereshilik	 áwereshilik	
 áwesek	A2	 áwesek	 áwesek	
@@ -1930,14 +1930,14 @@ awelgi	ADV-ATTR	 awel	 awel
 áshekeyli	A2	 áshekeyli	 áshekeyli	
 áshkara	A1	 áshkara	 áshkara	
 áshkarala	V-TV	 áshkarala	 áshkarala	
-áshkaralan	V-IF-REFL	 áshkaralan	 áshkaralan	
+áshkaralan	V-IV-REFL	 áshkaralan	 áshkaralan	
 áshkaralaw	V-TV	 áshkarala	 áshkarala	
 áshkaralawlı	A2	 áshkaralawlı	 áshkaralawlı	
 áshkaralawshı	V-TV	 áshkarala	 áshkarala	
 ba	QST	 ba	 ba	
 baba	N1	 baba	 baba	
 babay	N1	 babay	 babay	
-babay qaq	V-iv	 babay qaq	 babay qaq	
+babay qaq	V-IV	 babay qaq	 babay qaq	
 baǵ	N1	 baǵ	 baǵ	
 baǵan	N1	 baǵan	 baǵan	
 baǵana	ADV-ATTR	 baǵana	 baǵana	
