@@ -1,8 +1,5 @@
 What follows is the documentation for `apertium-kaa` – a morphological
-transducer and disambiguator for Kazakh.
-
-What follows is the documentation for `apertium-kaa` – a morphological
-transducer and disambiguator for Kazakh.
+transducer and disambiguator for Karakalpak.
 
 | Category     | Comment                   | Examples |
 | ------------ | ------------------------- | -------- |
