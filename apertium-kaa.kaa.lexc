@@ -205,6 +205,9 @@ V-IV ;
 LEXICON V-IV-REP
 V-IV ;
 
+LEXICON V-IV-LESS
+V-IV ;
+
 LEXICON V-TV
 %<v%>%<tv%>: V-COMMON ;
 %<v%>%<tv%>: V-DER ;
@@ -7690,7 +7693,7 @@ aǵayınshıl:aǵayınshıl A2 ;
 aǵayınshıllıq:aǵayınshıllıq N1 ;
 aǵalıq:aǵalıq N1 ;
 aǵar:aǵar V-IV ;
-aǵarańla:aǵarańla V-IV ;
+aǵarańla:aǵarańla V-IV-LESS ;
 aǵarǵan:aǵarǵan N1 ;
 aǵart:aǵart V-TV-CAUS ;
 aǵarttır:aǵarttır V-TV-CAUS ;
@@ -8039,7 +8042,7 @@ ayırılıs:ayırılıs V-IV-COOP ;
 ayırıl:ayırıl V-IV-REFL ;
 ayırım:ayırım A1 ;
 ayırımlıq:ayırımlıq N1 ;
-ayırıs:ayırıs V-IV-COOP ;
+ayırıs:ayırıs V-TV-COOP ;
 ayır:ayır V-TV ;
 akademik:akademik N1 ;
 akademiyalıq:akademiyalıq A2 ;

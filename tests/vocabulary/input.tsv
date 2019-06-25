@@ -138,7 +138,7 @@ aǵayınshıl	A2	aǵayınshıl	aǵayınshıl
 aǵayınshıllıq	N1	aǵayınshıllıq	aǵayınshıllıq										
 aǵalıq	N1	aǵalıq	aǵalıq										
 aǵar	V-IV	aǵar	aǵar										
-aǵarańla	V-IV	aǵarańla	aǵarańla										
+aǵarańla	V-IV-LESS	aǵarańla	aǵarańla										
 aǵarǵan	N1	aǵarǵan	aǵarǵan										
 aǵart	V-TV-CAUS	aǵart	aǵart										
 aǵarttır	V-TV-CAUS	aǵarttır	aǵarttır										
@@ -528,8 +528,8 @@ ayırılısıw	V-IV-COOP	ayırılıs	ayırılıs
 ayırılıw	V-IV-REFL	ayırıl	ayırıl										
 ayırım	A1	ayırım	ayırım										
 ayırımlıq	N1	ayırımlıq	ayırımlıq										
-ayırıs	V-IV-COOP	ayırıs	ayırıs										
-ayırısıw	V-IV-COOP	ayırıs	ayırıs										
+ayırıs	V-TV-COOP	ayırıs	ayırıs										
+ayırısıw	V-TV-COOP	ayırıs	ayırıs										
 ayırıw	V-TV	ayır	ayır										
 akademik	N1	akademik	akademik										
 akademiyalıq	A2	akademiyalıq	akademiyalıq										
