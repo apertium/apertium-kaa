@@ -1342,6 +1342,10 @@ LEXICON PRON-XXX ! To categorise
 
 %<prn%>: # ;
 
+LEXICON PRON-DEM
+
+%<prn%>%<dem%>: CASES ;
+
 !!!!!!!!!!!!!!!!!!!!!!     DETERMINERS
 
 LEXICON DET-DEM
@@ -9922,7 +9926,7 @@ baqırayt:baqırayt V-TV-CAUS ;
 baqır:baqır V-TV ;
 baqırık:baqırık N1 ;
 baqırın:baqırın V-IV-REFL ;
-baqırın:baqırın V-VT-CAUS ;
+baqırın:baqırın V-TV-CAUS ;
 baqırıs:baqırıs N1 ;
 baqırıs:baqırıs V-TV ;
 baqırmay:baqırmay ADV ;
