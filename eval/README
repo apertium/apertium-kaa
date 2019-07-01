@@ -1,0 +1,23 @@
+## kaa.txt = https://raw.githubusercontent.com/taruen/apertiumpp/master/data4apertium/corpora/bible/kaa%40newlatn.gospelgo.txt
+##
+## ref.txt =
+##        
+## corpus = []
+## with open('kaa.txt') as inf:
+##     for line in inf:
+##         line = line.strip()
+##         for w in line.split():
+##            corpus.append(re.sub(r'[,\.!\)\]]$', '', w))
+##
+## i = 0
+## seen = set()
+## while i < 500:
+##    w = random.choice(corpus)
+##    if w not in seen:
+##        seen.add(w)
+##        print(w)
+##        i += 1
+##
+## Precison, Recall, F-Score =
+##
+## python3 eval/evaluate-morph.py <(head -n 50 eval/test.txt) <(head -n 50 eval/ref.txt)
