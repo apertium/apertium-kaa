@@ -1043,7 +1043,7 @@ CASES-ETC ;
 LEXICON PersonalPronouns
  
 men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men COMMON-CLITICS ;
-men%<prn%>%<pers%>%<p1%>%<sg%>:n PRON-12SG-CASES ;
+men%<prn%>%<pers%>%<p1%>%<sg%>:m PRON-12SG-CASES ;
 
 sen%<prn%>%<pers%>%<p2%>%<sg%>%<nom%>:sen COMMON-CLITICS ;
 sen%<prn%>%<pers%>%<p2%>%<sg%>:s PRON-12SG-CASES ;
