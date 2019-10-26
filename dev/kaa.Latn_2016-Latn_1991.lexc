@@ -42,8 +42,8 @@ o:o AlphaLoop "weight: 1.0" ;
 p:p AlphaLoop "weight: 2.0" ;
 q:q AlphaLoop "weight: 2.0" ;
 r:r AlphaLoop "weight: 2.0" ;
-s:s AlphaLoop "weight: 2.0" ;
-sh:sh AlphaLoop "weight: 2.0" ;
+s:s AlphaLoop "weight: 2.0" ;     ! FIXME
+sh:sh AlphaLoop "weight: 2.0" ;   ! FIXME
 t:t AlphaLoop "weight: 2.0" ;
 u:u AlphaLoop "weight: 1.0" ;
 ú:uʻ AlphaLoop "weight: 0.5" ;

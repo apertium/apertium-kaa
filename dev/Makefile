@@ -14,11 +14,16 @@ kaa.Latn_2016-Latn_1991.hfst: kaa.Latn_2016-Latn_1991.lexc
 kaa-multi.LR.hfst: ../.deps/kaa.LR.hfst kaa.Latn_2016-Latn_1991.hfst
 	hfst-compose-intersect -1 ../.deps/kaa.LR.hfst -2 kaa.Latn_2016-Latn_1991.hfst -o $@
 
+kaa-multi2.LR.hfst: ../.deps/kaa.LR.hfst kaa.Latn_2016-Cyrl.hfst
+	hfst-compose-intersect -1 ../.deps/kaa.LR.hfst -2 kaa.Latn_2016-Cyrl.hfst -o $@
+
+kaa.Latn_2016-Cyrl.hfst: kaa.Latn_2016-Cyrl.lexc
+	hfst-lexc $< -o $@
 
 
-../kaa-multi.automorf.hfst: ../.deps/kaa.LR.hfst ../.deps/spellrelax.hfst kaa-multi.LR.hfst
+../kaa-multi.automorf.hfst: ../.deps/kaa.LR.hfst ../.deps/spellrelax.hfst kaa-multi.LR.hfst kaa-multi2.LR.hfst
 	#hfst-union -1 ../.deps/kaa.LR.hfst -2 kaa-multi.LR.hfst | hfst-fst2fst -w -o $@
-	hfst-union -1 ../.deps/kaa.LR.hfst -2 kaa-multi.LR.hfst | hfst-compose-intersect -1 - -2 ../.deps/spellrelax.hfst | hfst-invert | hfst-fst2fst -w -o $@
+	hfst-union -1 ../.deps/kaa.LR.hfst -2 kaa-multi.LR.hfst | hfst-union -1 - -2 kaa-multi2.LR.hfst | hfst-compose-intersect -1 - -2 ../.deps/spellrelax.hfst | hfst-invert | hfst-fst2fst -w -o $@
 
 clean:
 	rm *.hfst ../kaa-multi.*
