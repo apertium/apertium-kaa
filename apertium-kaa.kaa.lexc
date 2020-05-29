@@ -4030,7 +4030,6 @@ wáde:wáde N1 ; ! ""
 wákil:wákil N1 ; ! ""
 wálayat:wálayat N1 ; ! ""
 wásiyyat:wásiyyat N1 ; ! ""
-waqıt:waq%{y%}t N1 ; ! ""
 waqıya:waqıya N1 ; ! ""
 watan:watan N1 ; ! ""
 wazıypa:wazıypa N1 ; ! ""
@@ -15116,7 +15115,7 @@ jandarmlıq:jandarmlıq N1 ;
 jandırıw:jandırıw # ;
 jandırıwshı:jandırıwshı N1 ;
 jánede:jánede N1 ;
-jáne:jáne N1 ;
+jáne:jáne A1 ;
 jańǵaq:jańǵaq N1 ;
 jańǵırıw:jańǵırıw # ;
 jańǵırla:jańǵırla V-IV ;
@@ -17947,6 +17946,7 @@ krujok:krujok N1 ;
 kúbirtkeyli:kúbirtkeyli A2 ;
 kub:kub N1-NAT ;
 kubometr:kubometr N1 ;
+kushık:kushık N1 ; ! "small dog / puppy"
 kúdik:kúdik N1 ;
 kúdiklen:kúdiklen V-IV ;
 kúkirt:kúkirt N1 ;
