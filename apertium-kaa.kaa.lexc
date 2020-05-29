@@ -4355,6 +4355,7 @@ Veronica:Veronica NP-ANT-F ; ! ""
 Nadejda:Nadejda NP-ANT-F ; ! ""
 Dimna:Dimna NP-ANT-F ; ! ""
 Baǵdagúl:Baǵdagúl NP-ANT-F ; ! ""
+Baxtıyar:Baxtıyar NP-ANT-M ; ! ""
 
 Ajar:Ajar NP-ANT-F ; ! "Ajar" (Kazakh)
 Aida:Aida NP-ANT-F ; ! "Aida" (Arabic)
@@ -9736,6 +9737,7 @@ baxıt:baxıt N1 ;
 baxıtlı:baxıtlı A2 ;
 baxıtlılıq:baxıtlılıq N1 ;
 baxıtsız:baxıtsız A1 ;
+baxtıyar:baxtıyar A1 ; ! 
 baxıtsızlıq:baxıtsızlıq N1 ;
 bayaǵı:bayaǵı ADV-WITH-KI ;
 bayan:bayan N1 ;
