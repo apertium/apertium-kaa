@@ -2,8 +2,6 @@
 ## Makefile for apertium-kaa
 ###############################################################################
 
-RELEASE=0.1
-VERSION=0.1.0
 LANG1=kaa
 BASENAME=apertium-$(LANG1)
 

@@ -1,5 +1,6 @@
 prefix=@prefix@
 exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-kaa
 
 Name: apertium-kaa
 Description: Finite-state morphological transducer and constraint grammar for Karakalpak
