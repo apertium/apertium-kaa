@@ -164,3 +164,8 @@ install-data-local: install-modes
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
 	-rm -rf .deps modes
+
+docs: FORCE
+	cd docs; scribble index.scrbl
+
+FORCE:
