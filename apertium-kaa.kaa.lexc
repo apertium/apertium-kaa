@@ -1462,7 +1462,7 @@ sonday%-aq:sonday%-aq CC ; ! ""
 ya:ya CC ; ! ""
 yamasa:yamasa CC ; ! ""
 yaki:yaki CC ; ! ""
-
+bálkim:bálkim CC ; ! 
 
 eger:eger CS ; ! ""
 egerde:egerde CS ; ! ""
@@ -5670,6 +5670,7 @@ keyinirek:keyinirek ADV ; ! ""
 birinshi% ret:birinshi% ret ADV ; ! ""
 birinshi% márte:birinshi% márte ADV ; ! ""
 bunda:bunda ADV ; ! ""
+bálkim:bálkim ADV ; ! 
 bolmasa:bolmasa ADV ; ! ""
 ekonomikalı:ekonomikalı ADV ; ! ""
 lekin:lekin ADV ; ! ""
