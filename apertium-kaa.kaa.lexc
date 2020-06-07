@@ -1618,7 +1618,6 @@ bir%-bir:bir%-bir PRON-RECIP ; ! "each other, one another"
 
 óz:óz PRON-REF ; ! "self"
 
-basqa:basqa PRON-XXX ; ! ""
 
 !===================!
  LEXICON Determiners
@@ -5429,7 +5428,6 @@ sintetikalıq:sintetikalıq A2 ; ! ""
 siyrek:siyrek A1 ; ! ""
 sovetlik:sovetlik A2 ; ! ""
 sol:sol A1 ; ! ""
-soń:soń A1 ; ! ""
 sońǵı:sońǵı A1 ; ! ""
 sorlı:sorlı A2 ; ! ""
 social:social A2 ; ! ""
@@ -5836,7 +5834,7 @@ keshe:keshe ADV-WITH-KI ; ! "yesterday > yesterday's"
 kesh:kesh ADV-WITH-KI ; ! "evening/late"
 kúndiz:kúndiz ADV-WITH-KI ; ! "during the day"
 házir:házir ADV-WITH-KI ; ! "now > the one now"
-soń:soń ADV-WITH-KI ; ! ""
+soń:soń ADV; ! ""
 tań% erteń:tań% erteń ADV-WITH-KI ; ! "morning"
 tómengi:tómengi ADV-WITH-KI ; ! "lower"
 
@@ -6655,6 +6653,8 @@ ashıwlan:ashıwlan V-IV ; ! ""
 ótkirlen:ótkirlen V-IV ; ! ""
 dushpanlıq% et:dushpanlıq% et V-IV ; ! ""
 
+
+basqa:basqa POST-ABL ; ! ""
 abayla:abayla V-TV ; ! ""
 jinin% keltir:jinin% keltir V-TV ; ! ""
 aqla:aqla V-TV ; ! ""
@@ -8368,6 +8368,7 @@ alıstır:alıstır V-TV-CAUS ;
 alıs:alıs V-TV ;
 alıs:alıs V-IV ;
 al:al V-TV ;
+alıw:alıw V-IV-COOP ;
 alıwshılıq:alıwshılıq N1 ;
 albom:albom N1 ;
 almanax:almanax N1 ;
@@ -11952,7 +11953,7 @@ dıńıldat:dıńıldat V-TV-CAUS ;
 dıńıldaw:dıńıldaw # ;
 dıńıl:dıńıl N1 ;
 dıq:dıq N1 ;
-dıqqat:dıqqat A1 ;
+dıqqat:dıqqat N1 ;
 dıqqatla:dıqqatla V-IV ;
 dıqqatla:dıqqatla V-TV ;
 dıqqatlı:dıqqatlı A2 ;
@@ -13879,7 +13880,7 @@ háwir:háwir N1 ;
 hawız:hawız A1 ;
 háwkem%-háwkem:háwkem%-háwkem V-IV ;
 háwli%-hárem:háwli%-hárem N1 ;
-háwli:háwli A2 ;
+háwli:háwli N1 ;
 hawlıǵıw:hawlıǵıw # ;
 hawlıq:hawlıq N1 ;
 hawlıqpa:hawlıqpa A2 ;
@@ -15118,7 +15119,6 @@ jandarmlıq:jandarmlıq N1 ;
 jandırıw:jandırıw # ;
 jandırıwshı:jandırıwshı N1 ;
 jánede:jánede N1 ;
-jáne:jáne A1 ;
 jańǵaq:jańǵaq N1 ;
 jańǵırıw:jańǵırıw # ;
 jańǵırla:jańǵırla V-IV ;
@@ -15439,6 +15439,8 @@ jasırıw:jasırıw # ;
 jasırıwshılıq:jasırıwshılıq N1 ;
 jasır:jasır V-IV ;
 jasır:jasır V-TV ;
+jasırın:jasırın V-IV ;
+jasırınıw:jasırınıw V-IV-COOP ;
 jasırtıw:jasırtıw # ;
 jasırt:jasırt V-TV-CAUS ;
 jasıt:jasıt V-IV ;
@@ -15666,6 +15668,7 @@ jegiw:jegiw # ;
 jegiwshi:jegiwshi N1 ;
 jegiz:jegiz V-TV-CAUS ;
 je:je V-TV ;
+jew:jew V-IV-COOP ;
 jeke:jeke N1 ;
 jeken:jeken N1 ;
 jekenlik:jekenlik N1 ;
@@ -19294,7 +19297,7 @@ moynaq:moynaq N1 ;
 mramor:mramor N1 ;
 múbárek:múbárek N1 ;
 mudamı:mudamı A1 ;
-mudam:mudam N1 ;
+mudam:mudam ADV ;
 múdáris:múdáris N1 ;
 múddetli:múddetli A2 ;
 múddet:múddet N1 ;
@@ -21904,7 +21907,7 @@ qandayınan:qandayınan N1 ;
 qandayına:qandayına N1 ;
 qandayınsha:qandayınsha N1 ;
 qandaylıq:qandaylıq N1 ;
-qanday:qanday N1 ;
+qanday:qanday ADV ;
 qándekli:qándekli A2 ;
 qándek:qándek N1 ;
 qandırıw:qandırıw # ;
@@ -22311,7 +22314,6 @@ qashaǵan:qashaǵan N1 ;
 qashanda:qashanda N1 ;
 qashanǵı:qashanǵı N1 ;
 qashannan:qashannan N1 ;
-qashan:qashan N1 ;
 qasha:qasha V-TV ;
 qashaq:qashaq N1 ;
 qasharman:qasharman N1 ;
@@ -26465,6 +26467,7 @@ sonsha:sonsha N1 ;
 son:son N1 ;
 soń:soń N1 ;
 són:són V-IV ;
+soń:soń POST-NOM ;
 sopaq:sopaq A2 ;
 sopayıw:sopayıw # ;
 sopay:sopay V-IV ;
@@ -26571,13 +26574,13 @@ sóylemshek:sóylemshek V-IV-REFL ;
 sóyleniw:sóyleniw # ;
 sóylesiw:sóylesiw # ;
 sóyle:sóyle V-IV ;
-sóyle:sóyle V-TV ;
+sóyle:sóyle V-TV-CAUS ;
 sóyles:sóyles V-TV-COOP ;
 sóylestir:sóylestir V-TV-CAUS ;
 sóyletiw:sóyletiw # ;
 sóylet:sóylet V-TV-CAUS ;
 sóylewik:sóylewik A2 ;
-sóylew:sóylew # ;
+sóylew:sóylew V-IV-COOP ;
 soyqal:soyqal V-TV ;
 soyqanlı:soyqanlı A2 ;
 soyqanshılıq:soyqanshılıq N1 ;
@@ -26983,7 +26986,7 @@ tabıs:tabıs V-IV ;
 tabıs:tabıs V-IV-COOP ;
 tabıt:tabıt N1 ;
 tabıwshı:tabıwshı N1 ;
-tabıw:tabıw # ;
+tabıw:tabıw V-IV ;
 tablica:tablica N1 ;
 tachka:tachka N1 ;
 taǵala:taǵala V-IV ;
