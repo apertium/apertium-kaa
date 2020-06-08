@@ -518,7 +518,7 @@ LEXICON CLIT-GHANA-ETC
 
 %+%-aq%<postadv%>:%-aq # ; ! ""
 %+ǵana%<postadv%>:% %{G%}ana # ; ! ""
-%+da%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
+!%+de%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
 %+da%<postadv%>:% %{D%}%{A%} # ; ! ""
 # ;
 
@@ -901,6 +901,7 @@ LEXICON V-NONFINITE-REGULAR_NEGATIVE
 ! Participles
 %<prc_impf%>:%>%{E%} CLIT-GHANA-ETC ;
 %<prc_cond%>:%>s%{A%} V-PERS-S2 ;
+%<cond%>:%>s%{A%} V-PERS-S2 ;
 
 ! Verbal adverbs
 %<gna_cond%>:%>s%{A%} V-PERS-S2 ;
@@ -11624,6 +11625,7 @@ debyutant:debyutant N1 ;
 decentralizaciyala:decentralizaciyala V-TV ;
 decimetr:decimetr N1 ;
 de:de V-TV ;
+de:de CC ;
 dedik:dedik N1 ;
 dedikli:dedikli A2 ;
 dedir:dedir V-TV ;
