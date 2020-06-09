@@ -901,7 +901,6 @@ LEXICON V-NONFINITE-REGULAR_NEGATIVE
 ! Participles
 %<prc_impf%>:%>%{E%} CLIT-GHANA-ETC ;
 %<prc_cond%>:%>s%{A%} V-PERS-S2 ;
-%<cond%>:%>s%{A%} V-PERS-S2 ;
 
 ! Verbal adverbs
 %<gna_cond%>:%>s%{A%} V-PERS-S2 ;
@@ -7381,7 +7380,6 @@ uq:uq V-TV ; ! ""
 házirle:házirle V-TV ; ! ""
 áshkarala:áshkarala V-TV ; ! ""
 járiyala:járiyala V-TV ; ! ""
-ákel:ákel V-TV ; ! ""
 áket:áket V-TV ; ! ""
 álpeshle:álpeshle V-TV ; ! ""
 áper:áper V-TV ; ! ""
@@ -9190,7 +9188,6 @@ aya:aya V-TV ;
 áke:áke N1 ;
 ákel:ákel V-TV ;
 ákelik:ákelik N1 ;
-ákel:ákel V-TV ;
 áket:áket V-TV ;
 áke%-sheshe:áke%-sheshe N1 ;
 álbette:álbette PAREN ;
@@ -16980,7 +16977,6 @@ kelispegen:kelispegen N1 ;
 kelispewshilik:kelispewshilik N1 ;
 kelistiriw:kelistiriw # ;
 kelistir:kelistir V-TV-CAUS ;
-kel:kel V-IV ;
 kelle:kelle N1 ;
 kellekeser:kellekeser N1 ;
 kelleki:kelleki N1 ;
