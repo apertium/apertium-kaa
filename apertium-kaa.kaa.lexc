@@ -5834,7 +5834,7 @@ keshe:keshe ADV-WITH-KI ; ! "yesterday > yesterday's"
 kesh:kesh ADV-WITH-KI ; ! "evening/late"
 kúndiz:kúndiz ADV-WITH-KI ; ! "during the day"
 házir:házir ADV-WITH-KI ; ! "now > the one now"
-soń:soń ADV; ! ""
+soń:soń ADV-WITH-KI; ! ""
 tań% erteń:tań% erteń ADV-WITH-KI ; ! "morning"
 tómengi:tómengi ADV-WITH-KI ; ! "lower"
 
@@ -14840,6 +14840,8 @@ jaǵızaqlı:jaǵızaqlı A2 ;
 jáhánger:jáhánger N1 ;
 jáhán:jáhán N1 ;
 jáhánnem:jáhánnem N1 ;
+jáne:jáne ADV ;
+jáne% de:jáne% de ADV ;
 ja:ja N1 ;
 ja:ja V-IV ;
 jala:jala N1 ;
@@ -15118,7 +15120,6 @@ jandarm:jandarm N1 ;
 jandarmlıq:jandarmlıq N1 ;
 jandırıw:jandırıw # ;
 jandırıwshı:jandırıwshı N1 ;
-jánede:jánede N1 ;
 jańǵaq:jańǵaq N1 ;
 jańǵırıw:jańǵırıw # ;
 jańǵırla:jańǵırla V-IV ;
@@ -21907,7 +21908,7 @@ qandayınan:qandayınan N1 ;
 qandayına:qandayına N1 ;
 qandayınsha:qandayınsha N1 ;
 qandaylıq:qandaylıq N1 ;
-qanday:qanday ADV ;
+qanday:qanday ADV-ITG ;
 qándekli:qándekli A2 ;
 qándek:qándek N1 ;
 qandırıw:qandırıw # ;
@@ -26574,13 +26575,11 @@ sóylemshek:sóylemshek V-IV-REFL ;
 sóyleniw:sóyleniw # ;
 sóylesiw:sóylesiw # ;
 sóyle:sóyle V-IV ;
-sóyle:sóyle V-TV-CAUS ;
 sóyles:sóyles V-TV-COOP ;
 sóylestir:sóylestir V-TV-CAUS ;
 sóyletiw:sóyletiw # ;
 sóylet:sóylet V-TV-CAUS ;
 sóylewik:sóylewik A2 ;
-sóylew:sóylew V-IV-COOP ;
 soyqal:soyqal V-TV ;
 soyqanlı:soyqanlı A2 ;
 soyqanshılıq:soyqanshılıq N1 ;
@@ -26986,7 +26985,6 @@ tabıs:tabıs V-IV ;
 tabıs:tabıs V-IV-COOP ;
 tabıt:tabıt N1 ;
 tabıwshı:tabıwshı N1 ;
-tabıw:tabıw V-IV ;
 tablica:tablica N1 ;
 tachka:tachka N1 ;
 taǵala:taǵala V-IV ;
