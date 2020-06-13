@@ -519,7 +519,8 @@ LEXICON CLIT-GHANA-ETC
 %+%-aq%<postadv%>:%-aq # ; ! ""
 %+ǵana%<postadv%>:% %{G%}ana # ; ! ""
 !%+de%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
-%+da%<postadv%>:% %{D%}%{A%} # ; ! ""
+%+da%<postadv%>:% %{D%}%{A%} # ; ! "also"
+%+menen%<cnjcoo%>:% %{M%}enen # ; ! "and"
 # ;
 
 ! Now, let's group them depending on what they can attach to
@@ -551,9 +552,9 @@ CLIT-COP ;
 
 LEXICON CASES-OBL
 
-%<gen%>:%>%{N%}%{I%}ń CLIT ;
-%<acc%>:%>%{N%}%{I%} CLIT ;
-%<dat%>:%>%{G%}%{A%} CLIT ;
+%<gen%>:%>%{N%}%{I%}ń COMMON-CLITICS ;
+%<acc%>:%>%{N%}%{I%} COMMON-CLITICS ;
+%<dat%>:%>%{G%}%{A%} COMMON-CLITICS ;
 %<loc%>:%>%{D%}%{A%} CLIT-COP ;
 %<abl%>:%>%{D%}%{A%}n CLIT-COP ;
 
@@ -562,7 +563,9 @@ LEXICON CASES-COMMON
 %<gen%>:%>%{N%}%{I%}ń COMMON-CLITICS ;
 %<dat%>:%>%{G%}%{A%} COMMON-CLITICS ;
 %<acc%>:%>%{N%}%{I%} COMMON-CLITICS ;
-%<ins%>:%>% %{M%}enen COMMON-CLITICS ;
+!%<ins%>:%>% %{M%}enen COMMON-CLITICS ;
+%<ins%>:%>%{M%}enen COMMON-CLITICS ;
+%<ins%>:%>%{M%}en COMMON-CLITICS ; ! Dir/LR
 
 LEXICON CASES
 
@@ -4280,6 +4283,7 @@ Djona:Djona NP-ANT-M ; ! ""
 Alisher:Alisher NP-ANT-M ; ! ""
 A'jiniyaz:A'jiniyaz NP-ANT-M ; ! ""
 A'lisher:A'lisher NP-ANT-M ; ! ""
+Áziz:Áziz NP-ANT-M ; ! ""
 Azamat:Azamat NP-ANT-M ; ! "Azamat" (Arabic)
 Berdaq:Berdaq NP-ANT-M ; ! ""
 Xristofor:Xristofor NP-ANT-M ; ! ""
