@@ -518,6 +518,7 @@ LEXICON CLIT-GHANA-ETC
 
 %+%-aq%<postadv%>:%-aq # ; ! ""
 %+ǵana%<postadv%>:% %{G%}ana # ; ! ""
+%+da%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
 !%+de%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
 %+da%<postadv%>:% %{D%}%{A%} # ; ! "also"
 %+menen%<cnjcoo%>:% %{M%}enen # ; ! "and"
@@ -1634,6 +1635,7 @@ usı:usı DET-DEM ; ! ""
 ! сoнaу:сoнaу DET-DEM ;
 ! oсынaу:oсынaу DET-DEM ;
 ana:ana DET-DEM ; ! ""
+qandayda:qandayda DET-DEM; ! ""
 
 hár:hár DET-QNT ; ! "every"
 hár% bir:hár% bir DET-QNT ; ! "each"
@@ -4878,6 +4880,7 @@ agrotexnikalıq:agrotexnikalıq A2 ; ! ""
 hadal:hadal A2 ; ! ""
 awızeki:awızeki A2 ; ! ""
 az:az A1 ; ! ""
+azıraq:azıraq A1 ; ! ""
 azamatlıq:azamatlıq A2 ; ! ""
 azat:azat A1 ; ! ""
 aziyalıq:aziyalıq A2 ; ! ""
@@ -5834,7 +5837,7 @@ keshe:keshe ADV-WITH-KI ; ! "yesterday > yesterday's"
 kesh:kesh ADV-WITH-KI ; ! "evening/late"
 kúndiz:kúndiz ADV-WITH-KI ; ! "during the day"
 házir:házir ADV-WITH-KI ; ! "now > the one now"
-soń:soń ADV-WITH-KI; ! ""
+soń:soń ADV-WITH-KI ; ! ""
 tań% erteń:tań% erteń ADV-WITH-KI ; ! "morning"
 tómengi:tómengi ADV-WITH-KI ; ! "lower"
 
@@ -7442,6 +7445,7 @@ otır:otır Vinfl-AUX ; !
  LEXICON Interjections
 !=====================!
 
+yaq:yaq INTERJ ; ! "NO"
 joq:joq INTERJ ; ! "" ! Use/MT
 sózsiz:sózsiz INTERJ ; ! ""
 gúmansız:gúmansız INTERJ ; ! ""
@@ -8368,7 +8372,6 @@ alıstır:alıstır V-TV-CAUS ;
 alıs:alıs V-TV ;
 alıs:alıs V-IV ;
 al:al V-TV ;
-alıw:alıw V-IV-COOP ;
 alıwshılıq:alıwshılıq N1 ;
 albom:albom N1 ;
 almanax:almanax N1 ;
@@ -11630,7 +11633,7 @@ debyutant:debyutant N1 ;
 decentralizaciyala:decentralizaciyala V-TV ;
 decimetr:decimetr N1 ;
 de:de V-TV ;
-de:de CC ;
+de:de CC ; "" ! DIR/LR
 dedik:dedik N1 ;
 dedikli:dedikli A2 ;
 dedir:dedir V-TV ;
@@ -15441,7 +15444,6 @@ jasırıwshılıq:jasırıwshılıq N1 ;
 jasır:jasır V-IV ;
 jasır:jasır V-TV ;
 jasırın:jasırın V-IV ;
-jasırınıw:jasırınıw V-IV-COOP ;
 jasırtıw:jasırtıw # ;
 jasırt:jasırt V-TV-CAUS ;
 jasıt:jasıt V-IV ;
@@ -15669,7 +15671,6 @@ jegiw:jegiw # ;
 jegiwshi:jegiwshi N1 ;
 jegiz:jegiz V-TV-CAUS ;
 je:je V-TV ;
-jew:jew V-IV-COOP ;
 jeke:jeke N1 ;
 jeken:jeken N1 ;
 jekenlik:jekenlik N1 ;
@@ -17953,7 +17954,7 @@ krujok:krujok N1 ;
 kúbirtkeyli:kúbirtkeyli A2 ;
 kub:kub N1-NAT ;
 kubometr:kubometr N1 ;
-kushık:kushık N1 ; ! "small dog / puppy"
+kúshik:kúshik N1 ; ! "small dog / puppy"
 kúdik:kúdik N1 ;
 kúdiklen:kúdiklen V-IV ;
 kúkirt:kúkirt N1 ;
@@ -22036,7 +22037,6 @@ qaqaman:qaqaman N1 ;
 qaqańla:qaqańla V-IV ;
 qaqańla:qaqańla V-TV ;
 qaqań:qaqań A2 ;
-qa:qa V-TV ;
 qaqayıw:qaqayıw # ;
 qaqay:qaqay A2 ;
 qaqay:qaqay V-IV ;
