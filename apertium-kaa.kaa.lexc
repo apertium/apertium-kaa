@@ -1635,7 +1635,7 @@ usı:usı DET-DEM ; ! ""
 ! сoнaу:сoнaу DET-DEM ;
 ! oсынaу:oсынaу DET-DEM ;
 ana:ana DET-DEM ; ! ""
-qandayda:qandayda DET-DEM; ! ""
+qandayda:qandayda DET-DEM ; ! ""
 
 hár:hár DET-QNT ; ! "every"
 hár% bir:hár% bir DET-QNT ; ! "each"
@@ -11633,7 +11633,7 @@ debyutant:debyutant N1 ;
 decentralizaciyala:decentralizaciyala V-TV ;
 decimetr:decimetr N1 ;
 de:de V-TV ;
-de:de CC ; "" ! DIR/LR
+de:de CC ; ! "" ! DIR/LR
 dedik:dedik N1 ;
 dedikli:dedikli A2 ;
 dedir:dedir V-TV ;
