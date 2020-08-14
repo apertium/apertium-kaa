@@ -1002,7 +1002,8 @@ LEXICON V-TV-PASS
 LEXICON Vinfl-AUX-IMPF
 
 %<vaux%>%<pres%>: V-PERS-S1 ; ! /júr, jatir, tur, otir/
-
+%<vaux%>%<neg%>%<pres%>:%{G%}%{A%}n% joq V-PERS-S1 ;
+%<vaux%>: V-COMMON ;
 !!!!!!!!!!!!!!!!!!!!!!     auxiliary verbs
 
 LEXICON Vinfl-AUX-IMPF-NEG
@@ -1463,7 +1464,6 @@ sonday%-aq:sonday%-aq CC ; ! ""
 ya:ya CC ; ! ""
 yamasa:yamasa CC ; ! ""
 yaki:yaki CC ; ! ""
-bálkim:bálkim CC ; ! 
 
 eger:eger CS ; ! ""
 egerde:egerde CS ; ! ""
@@ -4300,6 +4300,7 @@ Wilhelm:Wilhelm NP-ANT-M ; ! ""
 Beknazar:Beknazar NP-ANT-M ; ! ""
 Sulayman:Sulayman NP-ANT-M ; ! ""
 Uluǵbek:Uluǵbek NP-ANT-M ; ! ""
+Odam:Odam NP-ANT-M ; ! ""
 Mırza:Mırza NP-ANT-M ; ! ""
 Ibrayım:Ibrayım NP-ANT-M ; ! ""
 Rústem:Rústem NP-ANT-M ; ! ""
@@ -4880,7 +4881,6 @@ agrotexnikalıq:agrotexnikalıq A2 ; ! ""
 hadal:hadal A2 ; ! ""
 awızeki:awızeki A2 ; ! ""
 az:az A1 ; ! ""
-azıraq:azıraq A1 ; ! ""
 azamatlıq:azamatlıq A2 ; ! ""
 azat:azat A1 ; ! ""
 aziyalıq:aziyalıq A2 ; ! ""
@@ -5117,7 +5117,6 @@ jılǵı:jılǵı A2 ; ! ""
 jıldam:jıldam A1 ; ! ""
 jıllıq:jıllıq A2 ; ! ""
 jıljımaytuǵın:jıljımaytuǵın A2 ; ! ""
-jıllı:jıllı A1 ; ! ""
 zayıplı:zayıplı A2 ; ! ""
 zamanagóy:zamanagóy A2 ; ! ""
 zárúr:zárúr A1 ; ! ""
@@ -5229,7 +5228,6 @@ kóshpeli:kóshpeli A2 ; ! ""
 qoyıw:qoyıw A1 ; ! ""
 kristallıq:kristallıq A2 ; ! ""
 quw:quw A1 ; ! ""
-quwanıshlı:quwanıshlı A1 ; ! ""
 kubalı:kubalı A2 ; ! ""
 qudiretli:qudiretli A2 ; ! ""
 kúngi:kúngi A2 ; ! ""
@@ -5888,6 +5886,7 @@ yahudiyshe:yahudiyshe ADV-LANG ; ! "Jewish/Jew"
  LEXICON Verbs
 !=============!
 
+ajras:ajras V-IV ; ! ""
 túsin:túsin V-IV ; ! ""
 súwretle:súwretle V-TV ; ! ""
 táriyple:táriyple V-TV ; ! ""
@@ -7436,8 +7435,8 @@ shıq:shıq Vinfl-AUX ; !
 jat:jatır Vinfl-AUX-IMPF ; ! Dir/LR
 jat:atır Vinfl-AUX-IMPF ; ! 
 
-jat:jat Vinfl-AUX ; ! Dir/LR
-jat:at Vinfl-AUX ; !  
+!jat:jat Vinfl-AUX ; ! Dir/LR
+!jat:at Vinfl-AUX ; !  
 tur:tur Vinfl-AUX ; ! 
 otır:otır Vinfl-AUX ; ! 
 
@@ -10835,6 +10834,7 @@ boqla:boqla V-TV ;
 boqlasıw:boqlasıw # ;
 boqlawshı:boqlawshı N1 ;
 boqlıq:boqlıq N1 ;
+bor:bor N1 ;
 bora:bora V-IV ;
 boran:boran N1 ;
 boranlı:boranlı A2 ;
@@ -21910,6 +21910,7 @@ qandayına:qandayına N1 ;
 qandayınsha:qandayınsha N1 ;
 qandaylıq:qandaylıq N1 ;
 qanday:qanday ADV-ITG ;
+qanday:qanday PRON-ITG-INFL ; ! "which one"
 qándekli:qándekli A2 ;
 qándek:qándek N1 ;
 qandırıw:qandırıw # ;
