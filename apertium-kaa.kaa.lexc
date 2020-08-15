@@ -518,6 +518,7 @@ LEXICON CLIT-GHANA-ETC
 
 %+%-aq%<postadv%>:%-aq # ; ! ""
 %+ǵana%<postadv%>:% %{G%}ana # ; ! ""
+%+da%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
 !%+de%<cnjcoo%>:% %{D%}%{A%} # ; ! ""
 %+da%<postadv%>:% %{D%}%{A%} # ; ! "also"
 %+menen%<cnjcoo%>:% %{M%}enen # ; ! "and"
@@ -1001,7 +1002,8 @@ LEXICON V-TV-PASS
 LEXICON Vinfl-AUX-IMPF
 
 %<vaux%>%<pres%>: V-PERS-S1 ; ! /júr, jatir, tur, otir/
-
+%<vaux%>%<neg%>%<pres%>:%{G%}%{A%}n% joq V-PERS-S1 ;
+%<vaux%>: V-COMMON ;
 !!!!!!!!!!!!!!!!!!!!!!     auxiliary verbs
 
 LEXICON Vinfl-AUX-IMPF-NEG
@@ -1463,7 +1465,6 @@ ya:ya CC ; ! ""
 yamasa:yamasa CC ; ! ""
 yaki:yaki CC ; ! ""
 
-
 eger:eger CS ; ! ""
 egerde:egerde CS ; ! ""
 mábada:mábada CS ; ! ""
@@ -1618,7 +1619,6 @@ bir%-bir:bir%-bir PRON-RECIP ; ! "each other, one another"
 
 óz:óz PRON-REF ; ! "self"
 
-basqa:basqa PRON-XXX ; ! ""
 
 !===================!
  LEXICON Determiners
@@ -1635,6 +1635,7 @@ usı:usı DET-DEM ; ! ""
 ! сoнaу:сoнaу DET-DEM ;
 ! oсынaу:oсынaу DET-DEM ;
 ana:ana DET-DEM ; ! ""
+qandayda:qandayda DET-DEM ; ! ""
 
 hár:hár DET-QNT ; ! "every"
 hár% bir:hár% bir DET-QNT ; ! "each"
@@ -4030,7 +4031,6 @@ wáde:wáde N1 ; ! ""
 wákil:wákil N1 ; ! ""
 wálayat:wálayat N1 ; ! ""
 wásiyyat:wásiyyat N1 ; ! ""
-waqıt:waq%{y%}t N1 ; ! ""
 waqıya:waqıya N1 ; ! ""
 watan:watan N1 ; ! ""
 wazıypa:wazıypa N1 ; ! ""
@@ -4300,6 +4300,7 @@ Wilhelm:Wilhelm NP-ANT-M ; ! ""
 Beknazar:Beknazar NP-ANT-M ; ! ""
 Sulayman:Sulayman NP-ANT-M ; ! ""
 Uluǵbek:Uluǵbek NP-ANT-M ; ! ""
+Odam:Odam NP-ANT-M ; ! ""
 Mırza:Mırza NP-ANT-M ; ! ""
 Ibrayım:Ibrayım NP-ANT-M ; ! ""
 Rústem:Rústem NP-ANT-M ; ! ""
@@ -4356,6 +4357,7 @@ Veronica:Veronica NP-ANT-F ; ! ""
 Nadejda:Nadejda NP-ANT-F ; ! ""
 Dimna:Dimna NP-ANT-F ; ! ""
 Baǵdagúl:Baǵdagúl NP-ANT-F ; ! ""
+Baxtıyar:Baxtıyar NP-ANT-M ; ! ""
 
 Ajar:Ajar NP-ANT-F ; ! "Ajar" (Kazakh)
 Aida:Aida NP-ANT-F ; ! "Aida" (Arabic)
@@ -5115,7 +5117,6 @@ jılǵı:jılǵı A2 ; ! ""
 jıldam:jıldam A1 ; ! ""
 jıllıq:jıllıq A2 ; ! ""
 jıljımaytuǵın:jıljımaytuǵın A2 ; ! ""
-jıllı:jıllı A1 ; ! ""
 zayıplı:zayıplı A2 ; ! ""
 zamanagóy:zamanagóy A2 ; ! ""
 zárúr:zárúr A1 ; ! ""
@@ -5227,7 +5228,6 @@ kóshpeli:kóshpeli A2 ; ! ""
 qoyıw:qoyıw A1 ; ! ""
 kristallıq:kristallıq A2 ; ! ""
 quw:quw A1 ; ! ""
-quwanıshlı:quwanıshlı A1 ; ! ""
 kubalı:kubalı A2 ; ! ""
 qudiretli:qudiretli A2 ; ! ""
 kúngi:kúngi A2 ; ! ""
@@ -5429,7 +5429,6 @@ sintetikalıq:sintetikalıq A2 ; ! ""
 siyrek:siyrek A1 ; ! ""
 sovetlik:sovetlik A2 ; ! ""
 sol:sol A1 ; ! ""
-soń:soń A1 ; ! ""
 sońǵı:sońǵı A1 ; ! ""
 sorlı:sorlı A2 ; ! ""
 social:social A2 ; ! ""
@@ -5670,6 +5669,7 @@ keyinirek:keyinirek ADV ; ! ""
 birinshi% ret:birinshi% ret ADV ; ! ""
 birinshi% márte:birinshi% márte ADV ; ! ""
 bunda:bunda ADV ; ! ""
+bálkim:bálkim ADV ; ! 
 bolmasa:bolmasa ADV ; ! ""
 ekonomikalı:ekonomikalı ADV ; ! ""
 lekin:lekin ADV ; ! ""
@@ -5886,6 +5886,7 @@ yahudiyshe:yahudiyshe ADV-LANG ; ! "Jewish/Jew"
  LEXICON Verbs
 !=============!
 
+ajras:ajras V-IV ; ! ""
 túsin:túsin V-IV ; ! ""
 súwretle:súwretle V-TV ; ! ""
 táriyple:táriyple V-TV ; ! ""
@@ -6654,6 +6655,8 @@ ashıwlan:ashıwlan V-IV ; ! ""
 ótkirlen:ótkirlen V-IV ; ! ""
 dushpanlıq% et:dushpanlıq% et V-IV ; ! ""
 
+
+basqa:basqa POST-ABL ; ! ""
 abayla:abayla V-TV ; ! ""
 jinin% keltir:jinin% keltir V-TV ; ! ""
 aqla:aqla V-TV ; ! ""
@@ -7432,8 +7435,8 @@ shıq:shıq Vinfl-AUX ; !
 jat:jatır Vinfl-AUX-IMPF ; ! Dir/LR
 jat:atır Vinfl-AUX-IMPF ; ! 
 
-jat:jat Vinfl-AUX ; ! Dir/LR
-jat:at Vinfl-AUX ; !  
+!jat:jat Vinfl-AUX ; ! Dir/LR
+!jat:at Vinfl-AUX ; !  
 tur:tur Vinfl-AUX ; ! 
 otır:otır Vinfl-AUX ; ! 
 
@@ -7441,6 +7444,7 @@ otır:otır Vinfl-AUX ; !
  LEXICON Interjections
 !=====================!
 
+yaq:yaq INTERJ ; ! "NO"
 joq:joq INTERJ ; ! "" ! Use/MT
 sózsiz:sózsiz INTERJ ; ! ""
 gúmansız:gúmansız INTERJ ; ! ""
@@ -9737,6 +9741,7 @@ baxıt:baxıt N1 ;
 baxıtlı:baxıtlı A2 ;
 baxıtlılıq:baxıtlılıq N1 ;
 baxıtsız:baxıtsız A1 ;
+baxtıyar:baxtıyar A1 ; ! 
 baxıtsızlıq:baxıtsızlıq N1 ;
 bayaǵı:bayaǵı ADV-WITH-KI ;
 bayan:bayan N1 ;
@@ -10829,6 +10834,7 @@ boqla:boqla V-TV ;
 boqlasıw:boqlasıw # ;
 boqlawshı:boqlawshı N1 ;
 boqlıq:boqlıq N1 ;
+bor:bor N1 ;
 bora:bora V-IV ;
 boran:boran N1 ;
 boranlı:boranlı A2 ;
@@ -11627,7 +11633,7 @@ debyutant:debyutant N1 ;
 decentralizaciyala:decentralizaciyala V-TV ;
 decimetr:decimetr N1 ;
 de:de V-TV ;
-de:de CC ;
+de:de CC ; ! "" ! DIR/LR
 dedik:dedik N1 ;
 dedikli:dedikli A2 ;
 dedir:dedir V-TV ;
@@ -11950,7 +11956,7 @@ dıńıldat:dıńıldat V-TV-CAUS ;
 dıńıldaw:dıńıldaw # ;
 dıńıl:dıńıl N1 ;
 dıq:dıq N1 ;
-dıqqat:dıqqat A1 ;
+dıqqat:dıqqat N1 ;
 dıqqatla:dıqqatla V-IV ;
 dıqqatla:dıqqatla V-TV ;
 dıqqatlı:dıqqatlı A2 ;
@@ -13877,7 +13883,7 @@ háwir:háwir N1 ;
 hawız:hawız A1 ;
 háwkem%-háwkem:háwkem%-háwkem V-IV ;
 háwli%-hárem:háwli%-hárem N1 ;
-háwli:háwli A2 ;
+háwli:háwli N1 ;
 hawlıǵıw:hawlıǵıw # ;
 hawlıq:hawlıq N1 ;
 hawlıqpa:hawlıqpa A2 ;
@@ -14837,6 +14843,8 @@ jaǵızaqlı:jaǵızaqlı A2 ;
 jáhánger:jáhánger N1 ;
 jáhán:jáhán N1 ;
 jáhánnem:jáhánnem N1 ;
+jáne:jáne ADV ;
+jáne% de:jáne% de ADV ;
 ja:ja N1 ;
 ja:ja V-IV ;
 jala:jala N1 ;
@@ -15115,8 +15123,6 @@ jandarm:jandarm N1 ;
 jandarmlıq:jandarmlıq N1 ;
 jandırıw:jandırıw # ;
 jandırıwshı:jandırıwshı N1 ;
-jánede:jánede N1 ;
-jáne:jáne N1 ;
 jańǵaq:jańǵaq N1 ;
 jańǵırıw:jańǵırıw # ;
 jańǵırla:jańǵırla V-IV ;
@@ -15437,6 +15443,7 @@ jasırıw:jasırıw # ;
 jasırıwshılıq:jasırıwshılıq N1 ;
 jasır:jasır V-IV ;
 jasır:jasır V-TV ;
+jasırın:jasırın V-IV ;
 jasırtıw:jasırtıw # ;
 jasırt:jasırt V-TV-CAUS ;
 jasıt:jasıt V-IV ;
@@ -17947,6 +17954,7 @@ krujok:krujok N1 ;
 kúbirtkeyli:kúbirtkeyli A2 ;
 kub:kub N1-NAT ;
 kubometr:kubometr N1 ;
+kúshik:kúshik N1 ; ! "small dog / puppy"
 kúdik:kúdik N1 ;
 kúdiklen:kúdiklen V-IV ;
 kúkirt:kúkirt N1 ;
@@ -19291,7 +19299,7 @@ moynaq:moynaq N1 ;
 mramor:mramor N1 ;
 múbárek:múbárek N1 ;
 mudamı:mudamı A1 ;
-mudam:mudam N1 ;
+mudam:mudam ADV ;
 múdáris:múdáris N1 ;
 múddetli:múddetli A2 ;
 múddet:múddet N1 ;
@@ -21901,7 +21909,8 @@ qandayınan:qandayınan N1 ;
 qandayına:qandayına N1 ;
 qandayınsha:qandayınsha N1 ;
 qandaylıq:qandaylıq N1 ;
-qanday:qanday N1 ;
+qanday:qanday ADV-ITG ;
+qanday:qanday PRON-ITG-INFL ; ! "which one"
 qándekli:qándekli A2 ;
 qándek:qándek N1 ;
 qandırıw:qandırıw # ;
@@ -22029,7 +22038,6 @@ qaqaman:qaqaman N1 ;
 qaqańla:qaqańla V-IV ;
 qaqańla:qaqańla V-TV ;
 qaqań:qaqań A2 ;
-qa:qa V-TV ;
 qaqayıw:qaqayıw # ;
 qaqay:qaqay A2 ;
 qaqay:qaqay V-IV ;
@@ -22308,7 +22316,6 @@ qashaǵan:qashaǵan N1 ;
 qashanda:qashanda N1 ;
 qashanǵı:qashanǵı N1 ;
 qashannan:qashannan N1 ;
-qashan:qashan N1 ;
 qasha:qasha V-TV ;
 qashaq:qashaq N1 ;
 qasharman:qasharman N1 ;
@@ -26462,6 +26469,7 @@ sonsha:sonsha N1 ;
 son:son N1 ;
 soń:soń N1 ;
 són:són V-IV ;
+soń:soń POST-NOM ;
 sopaq:sopaq A2 ;
 sopayıw:sopayıw # ;
 sopay:sopay V-IV ;
@@ -26568,13 +26576,11 @@ sóylemshek:sóylemshek V-IV-REFL ;
 sóyleniw:sóyleniw # ;
 sóylesiw:sóylesiw # ;
 sóyle:sóyle V-IV ;
-sóyle:sóyle V-TV ;
 sóyles:sóyles V-TV-COOP ;
 sóylestir:sóylestir V-TV-CAUS ;
 sóyletiw:sóyletiw # ;
 sóylet:sóylet V-TV-CAUS ;
 sóylewik:sóylewik A2 ;
-sóylew:sóylew # ;
 soyqal:soyqal V-TV ;
 soyqanlı:soyqanlı A2 ;
 soyqanshılıq:soyqanshılıq N1 ;
@@ -26980,7 +26986,6 @@ tabıs:tabıs V-IV ;
 tabıs:tabıs V-IV-COOP ;
 tabıt:tabıt N1 ;
 tabıwshı:tabıwshı N1 ;
-tabıw:tabıw # ;
 tablica:tablica N1 ;
 tachka:tachka N1 ;
 taǵala:taǵala V-IV ;
