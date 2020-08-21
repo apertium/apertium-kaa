@@ -544,7 +544,7 @@ CLIT-GHANA-ETC ;
 
 LEXICON CLIT-COP
 
-%+e%<cop%>: V-PERS-S1 ;
+%+e%<cop%>%<aor%>: V-PERS-S1 ;
 
 LEXICON CLITICS-INCL-COP         ! Can appear only after nominals
                                  ! (and only after some cases).
