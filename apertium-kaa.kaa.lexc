@@ -751,7 +751,7 @@ LEXICON V-PERS-S1-NO3PERSON
 %<p1%>%<sg%>:%>%{M%}%{A%}n COMMON-CLITICS ;
 %<p2%>%<sg%>:%>s%{A%}ń COMMON-CLITICS ;
 %<p1%>%<pl%>:%>%{M%}%{I%}z COMMON-CLITICS ;
-%<p2%>%<pl%>:%>s%{I%}zl%{I%}r COMMON-CLITICS ;
+%<p2%>%<pl%>:%>s%{I%}zl%{A%}r COMMON-CLITICS ;
 
 %<p2%>%<frm%>%<sg%>:%>s%{I%}z COMMON-CLITICS ;
 %<p2%>%<frm%>%<pl%>:%>s%{I%}zl%{A%}r COMMON-CLITICS ;
