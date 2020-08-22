@@ -240,7 +240,7 @@ LEXICON A1
 %<adj%>%<comp%>:%>%{I%}r%{A%}%{K%} CLIT ; !CLITICS-INCL-COP ;   
 %<adj%>%<subst%>: FULL-NOMINAL-INFLECTION ;                             
 %<adj%>%<comp%>%<subst%>:%>%{I%}r%{A%}%{K%} SUBST ;   
-%<adj%>%<advl%>: CLIT ; ! COMMON-CLITICS ;                               
+%<adj%>%<advl%>: CLITICS-INCL-COP ; ! COMMON-CLITICS ;                               
 %<adj%>%<comp%>%<advl%>:%>%{I%}r%{A%}%{K%} CLIT ; !COMMON-CLITICS ;     
 
 LEXICON A1-SUP
