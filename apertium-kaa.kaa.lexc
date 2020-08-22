@@ -113,7 +113,6 @@ Multichar_Symbols
 %<percent%>   ! Percent
 %<qst%>       ! Modal question particle
 %<emph%>      ! Emphasizing modal particle
-%<mod_ass%>   ! Assertive modal particle
 %<mod%>       ! Other modal words (шығaр, сияқты etc)
 %<sent%>      ! Sentence marker
 %<guio%>      ! Hyphen
@@ -300,9 +299,6 @@ LEXICON CC
 
 LEXICON QST
 %<qst%>: # ;
-
-LEXICON MOD-ASS
-%<mod_ass%>: # ;
 
 LEXICON MOD
 ! шығар, сияқты etc.
@@ -508,7 +504,7 @@ CLIT-QST-MA ;
 %+meken%<qst%>:% %{M%}eken # ;
 # ;
 
-LEXICON CLIT-MODASS
+LEXICON CLIT-MOD
 
 !%+ǵoy%<mod_ass%>:% %{G%}oy # ;  ! FIXME: CHECK
 %+ǵo%<mod%>:ǵo # ;
@@ -529,7 +525,7 @@ LEXICON CLIT-GHANA-ETC
 LEXICON COMMON-CLITICS
 
 CLIT-QST ;
-CLIT-MODASS ;
+CLIT-MOD ;
 CLIT-GHANA-ETC ;
 
 LEXICON CLIT
@@ -539,7 +535,7 @@ LEXICON CLIT
 LEXICON CLITICS-NO-COP 
 
 CLIT-QST ;
-CLIT-MODASS ;
+CLIT-MOD ;
 CLIT-GHANA-ETC ;
 
 LEXICON CLIT-COP
@@ -1427,9 +1423,9 @@ ma% ne:ma% ne QST ; ! "" Dir/LR
 ma% ne:me% ne QST ; ! "" Dir/LR
 she:she QST ; ! ""
 
-ǵoy:%~ǵoy MOD-ASS ; ! "" Dir/RL
-ǵoy:ǵoy MOD-ASS ; ! "" Dir/LR
-ǵoy:qoy MOD-ASS ; ! "" Dir/LR
+ǵoy:%~ǵoy MOD ; ! "" Dir/RL
+ǵoy:ǵoy MOD ; ! "" Dir/LR
+ǵoy:qoy MOD ; ! "" Dir/LR
 
 shıǵar:shıǵar MOD ; ! FIXME actually a verb, takes personal suffixes (V-PERS-S1);
                   !   ... more like <vaux><pres> than like a full verb -JNW
