@@ -727,10 +727,7 @@ LEXICON NP-PAT-VICH
 LEXICON NP-COG-OV
 
 %<np%>%<cog%>%<m%>: NP-COMMON ;
-%<np%>%<cog%>%<m%>%<attr%>: # ;
-
 %<np%>%<cog%>%<f%>:a NP-COMMON ;
-%<np%>%<cog%>%<f%>%<attr%>:a # ;
 
 LEXICON NP-ORG
 
@@ -30089,241 +30086,241 @@ zuw:zuw N1 ;
 zuw%-zuw:zuw%-zuw # ;
 zveno:zveno N1 ;
 
-A2% ligası:A2% ligası  NP-ORG ; !  
-ABD% Kolej% ligası:ABD% Kolej% ligası  NP-ORG ; !  
-ACB% ligası:ACB% ligası  NP-ORG ; !  
-Adriatik% ligası:Adriatik% ligası  NP-ORG ; !  
-Albaniya% Superligası:Albaniya% Superligası  NP-ORG ; !  
-Amerika% Ádillik% ligası:Amerika% Ádillik% ligası  NP-ORG ; !  
-Amerika% futbol% ligası:Amerika% futbol% ligası  NP-ORG ; !  
-Angliya% basketbol% ligası:Angliya% basketbol% ligası  NP-ORG ; !  
-Angliya% futbol% ligası:Angliya% futbol% ligası  NP-ORG ; !  
-Angliya% Premer%%-ligası:Angliya% Premer%%-ligası  NP-ORG ; !  
-Angliya% Premer%%-ligası% oyınları:Angliya% Premer%%-ligası% oyınları  NP-ORG ; !  
-Apelsin% ligası:Apelsin% ligası  NP-ORG ; !  
-AQSh% Professional% Futbol% ligası:AQSh% Professional% Futbol% ligası  NP-ORG ; !  
-Arab% ligası:Arab% ligası  NP-ORG ; !  
-Argentina% futbol% ligası:Argentina% futbol% ligası  NP-ORG ; !  
-Argentina% ligası:Argentina% ligası  NP-ORG ; !  
-Atletika% ligası:Atletika% ligası  NP-ORG ; !  
-Avstraliya% futbol% ligası:Avstraliya% futbol% ligası  NP-ORG ; !  
-Avstriya% basketbol% ligası:Avstriya% basketbol% ligası  NP-ORG ; !  
-Hayallar% ligası:Hayallar% ligası  NP-ORG ; !  
-Barlıq% ACB% ligası:Barlıq% ACB% ligası  NP-ORG ; !  
-Bavariya% ligası:Bavariya% ligası  NP-ORG ; !  
-Beko% Basketbol% ligası:Beko% Basketbol% ligası  NP-ORG ; !  
-Belgiya% basketbol% ligası:Belgiya% basketbol% ligası  NP-ORG ; !  
-Belgiya% Birinshi% ligası:Belgiya% Birinshi% ligası  NP-ORG ; !  
-Belgiya% ligası:Belgiya% ligası  NP-ORG ; !  
-Birinshi% Futbol% ligası:Birinshi% Futbol% ligası  NP-ORG ; !  
-Birinshi% UEFA% Chempionlar% ligası:Birinshi% UEFA% Chempionlar% ligası  NP-ORG ; !  
-B% liga:B% liga  NP-ORG ; !  
-Bolgariya% ligası:Bolgariya% ligası  NP-ORG ; !  
-Braziliya% ligası:Braziliya% ligası  NP-ORG ; !  
-Braziliya% Superligası:Braziliya% Superligası  NP-ORG ; !  
-Bursa% háwesker% klublar% ligası:Bursa% háwesker% klublar% ligası  NP-ORG ; !  
-CAF% Chempionlar% ligası:CAF% Chempionlar% ligası  NP-ORG ; !  
-CEV% Chempionlar% ligası:CEV% Chempionlar% ligası  NP-ORG ; !  
-Chempionlar% ligası:Chempionlar% ligası  NP-ORG ; !  
-Chernogoriya% Birinshi% ligası:Chernogoriya% Birinshi% ligası  NP-ORG ; !  
-Chernogoriya% Ekinshi% ligası:Chernogoriya% Ekinshi% ligası  NP-ORG ; !  
-Chernogoriya% Úshinshi% ligası:Chernogoriya% Úshinshi% ligası  NP-ORG ; !  
-Shetke% Voleybol% ligası:Shetke% Voleybol% ligası  NP-ORG ; !  
-Chili% Birinshi% ligası:Chili% Birinshi% ligası  NP-ORG ; !  
-Chili% Premer%%-ligası:Chili% Premer%%-ligası  NP-ORG ; !  
-Chukurova% ligası:Chukurova% ligası  NP-ORG ; !  
-Daniya% ligası:Daniya% ligası  NP-ORG ; !  
-Daniya% Superligası:Daniya% Superligası  NP-ORG ; !  
-Demokratiyalıq% partiya:Demokratiyalıq% partiya  NP-ORG ; !  
-Eduardo% Ukraina% Premer%%-ligası:Eduardo% Ukraina% Premer%%-ligası  NP-ORG ; !  
-EHF% chempionlar% ligası:EHF% chempionlar% ligası  NP-ORG ; !  
-Ergic% Chempionlar% ligası:Ergic% Chempionlar% ligası  NP-ORG ; !  
-EvertonM% Chempionlar% ligası:EvertonM% Chempionlar% ligası  NP-ORG ; !  
-Farer% atawları% Premer%%-ligası:Farer% atawları% Premer%%-ligası  NP-ORG ; !  
-Finlyandiya% ligasıdagi% karerasi:Finlyandiya% ligasıdagi% karerasi  NP-ORG ; !  
-Fransiya% Ekinshi% ligası:Fransiya% Ekinshi% ligası  NP-ORG ; !  
-Fransiya% ligası:Fransiya% ligası  NP-ORG ; !  
-Futbol% ligası:Futbol% ligası  NP-ORG ; !  
-Futbol% Mugla% háweskerler% ligası:Futbol% Mugla% háweskerler% ligası  NP-ORG ; !  
-Gandbol% boyınsha% hayallar% chempionlari% ligası:Gandbol% boyınsha% hayallar% chempionlari% ligası  NP-ORG ; !  
-Gandbol% boyınsha% er% adamlar% chempionlari% ligası:Gandbol% boyınsha% er% adamlar% chempionlari% ligası  NP-ORG ; !  
-Gandbol% boyınsha% er% adamlar% Superligası:Gandbol% boyınsha% er% adamlar% Superligası  NP-ORG ; !  
-batıslıq% hayallar% xokkey% ligası:batıslıq% hayallar% xokkey% ligası  NP-ORG ; !  
-batıslıq% futbol% ligası:batıslıq% futbol% ligası  NP-ORG ; !  
-Germaniya% basketbol% ligası:Germaniya% basketbol% ligası  NP-ORG ; !  
-Germaniya% Klublar% ligası:Germaniya% Klublar% ligası  NP-ORG ; !  
-Germaniya% ligası:Germaniya% ligası  NP-ORG ; ! 
-Gist% Rossiya% ligası:Gist% Rossiya% ligası  NP-ORG ; !  
-Gollandiya% ligası:Gollandiya% ligası  NP-ORG ; !  
-Gretsiya% basketbol% ligası:Gretsiya% basketbol% ligası  NP-ORG ; !  
-Gretsiya% ligası:Gretsiya% ligası  NP-ORG ; !  
-Gretsiya% Superligası:Gretsiya% Superligası  NP-ORG ; !  
-Háweskerler% ligası:Háweskerler% ligası  NP-ORG ; !  
+A2% ligası:A2% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+ABD% Kolej% ligası:ABD% Kolej% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+ACB% ligası:ACB% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Adriatik% ligası:Adriatik% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Albaniya% Superligası:Albaniya% Superligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Amerika% Ádillik% ligası:Amerika% Ádillik% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Amerika% futbol% ligası:Amerika% futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Angliya% basketbol% ligası:Angliya% basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Angliya% futbol% ligası:Angliya% futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Angliya% Premer%%-ligası:Angliya% Premer%%-ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Angliya% Premer%%-ligası% oyınları:Angliya% Premer%%-ligası% oyınları  NP-ORG-COMPOUND ; !  
+Apelsin% ligası:Apelsin% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+AQSh% Professional% Futbol% ligası:AQSh% Professional% Futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Arab% ligası:Arab% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Argentina% futbol% ligası:Argentina% futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Argentina% ligası:Argentina% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Atletika% ligası:Atletika% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Avstraliya% futbol% ligası:Avstraliya% futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Avstriya% basketbol% ligası:Avstriya% basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Hayallar% ligası:Hayallar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Barlıq% ACB% ligası:Barlıq% ACB% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Bavariya% ligası:Bavariya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Beko% Basketbol% ligası:Beko% Basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Belgiya% basketbol% ligası:Belgiya% basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Belgiya% Birinshi% ligası:Belgiya% Birinshi% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Belgiya% ligası:Belgiya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Birinshi% Futbol% ligası:Birinshi% Futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Birinshi% UEFA% Chempionlar% ligası:Birinshi% UEFA% Chempionlar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+B% liga:B% liga  NP-ORG-COMPOUND ; !  
+Bolgariya% ligası:Bolgariya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Braziliya% ligası:Braziliya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Braziliya% Superligası:Braziliya% Superligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Bursa% háwesker% klublar% ligası:Bursa% háwesker% klublar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+CAF% Chempionlar% ligası:CAF% Chempionlar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+CEV% Chempionlar% ligası:CEV% Chempionlar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Chempionlar% ligası:Chempionlar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Chernogoriya% Birinshi% ligası:Chernogoriya% Birinshi% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Chernogoriya% Ekinshi% ligası:Chernogoriya% Ekinshi% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Chernogoriya% Úshinshi% ligası:Chernogoriya% Úshinshi% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Shetke% Voleybol% ligası:Shetke% Voleybol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Chili% Birinshi% ligası:Chili% Birinshi% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Chili% Premer%%-ligası:Chili% Premer%%-ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Chukurova% ligası:Chukurova% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Daniya% ligası:Daniya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Daniya% Superligası:Daniya% Superligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Demokratiyalıq% partiya:Demokratiyalıq% partiya  NP-ORG-COMPOUND ; !  
+Eduardo% Ukraina% Premer%%-ligası:Eduardo% Ukraina% Premer%%-ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+EHF% chempionlar% ligası:EHF% chempionlar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Ergic% Chempionlar% ligası:Ergic% Chempionlar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+EvertonM% Chempionlar% ligası:EvertonM% Chempionlar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Farer% atawları% Premer%%-ligası:Farer% atawları% Premer%%-ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Finlyandiya% ligasıdagi% karerasi:Finlyandiya% ligasıdagi% karerasi  NP-ORG-COMPOUND ; !  
+Fransiya% Ekinshi% ligası:Fransiya% Ekinshi% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Fransiya% ligası:Fransiya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Futbol% ligası:Futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Futbol% Mugla% háweskerler% ligası:Futbol% Mugla% háweskerler% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Gandbol% boyınsha% hayallar% chempionlari% ligası:Gandbol% boyınsha% hayallar% chempionlari% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Gandbol% boyınsha% er% adamlar% chempionlari% ligası:Gandbol% boyınsha% er% adamlar% chempionlari% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Gandbol% boyınsha% er% adamlar% Superligası:Gandbol% boyınsha% er% adamlar% Superligası  NP-ORG-COMPOUND-COMPOUND ; !  
+batıslıq% hayallar% xokkey% ligası:batıslıq% hayallar% xokkey% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+batıslıq% futbol% ligası:batıslıq% futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Germaniya% basketbol% ligası:Germaniya% basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Germaniya% Klublar% ligası:Germaniya% Klublar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Germaniya% ligası:Germaniya% ligası  NP-ORG-COMPOUND-COMPOUND ; ! 
+Gist% Rossiya% ligası:Gist% Rossiya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Gollandiya% ligası:Gollandiya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Gretsiya% basketbol% ligası:Gretsiya% basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Gretsiya% ligası:Gretsiya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Gretsiya% Superligası:Gretsiya% Superligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Háweskerler% ligası:Háweskerler% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
 
-Ekinshi% Basketbol% ligası:Ekinshi% Basketbol% ligası  NP-ORG ; !  
-Ekinshi% Futbol% ligası:Ekinshi% Futbol% ligası  NP-ORG ; !  
-Ekinshi% liga:Ekinshi% liga  NP-ORG ; !  
-Indigo% ligası:Indigo% ligası  NP-ORG ; !  
-Ispaniya% basketbol% ligası:Ispaniya% basketbol% ligası  NP-ORG ; !  
-Ispaniya% ligası:Ispaniya% ligası  NP-ORG ; !  
-Ispaniya% Superligası:Ispaniya% Superligası  NP-ORG ; !  
-Ispaniya% Úshinshi% ligası:Ispaniya% Úshinshi% ligası  NP-ORG ; !  
-Izrail% basketbol% ligası:Izrail% basketbol% ligası  NP-ORG ; !  
-Izrail% ligası:Izrail% ligası  NP-ORG ; !  
-Izrail% Superligası:Izrail% Superligası  NP-ORG ; !  
-Istanbul% hayallar% basketbol% ligası:Istanbul% hayallar% basketbol% ligası  NP-ORG ; !  
-Istanbul% hayallar% voleybol% ligası:Istanbul% hayallar% voleybol% ligası  NP-ORG ; !  
-Istanbul% Basketbol% Qızlar% ligası:Istanbul% Basketbol% Qızlar% ligası  NP-ORG ; !  
-Istanbul% Birinshi% Háweskerler% ligası:Istanbul% Birinshi% Háweskerler% ligası  NP-ORG ; !  
-Istanbul% háwesker% futbol% ligası:Istanbul% háwesker% futbol% ligası  NP-ORG ; !  
-Istanbul% Ekinshi% Basketbol% ligası:Istanbul% Ekinshi% Basketbol% ligası  NP-ORG ; !  
-Istanbul% Ekinshi% Háweskerler% ligası:Istanbul% Ekinshi% Háweskerler% ligası  NP-ORG ; !  
-Istanbul% ligası:Istanbul% ligası  NP-ORG ; !  
-Istanbul% Professional% Futbol% ligası:Istanbul% Professional% Futbol% ligası  NP-ORG ; !  
-Istanbul% Professional% ligası:Istanbul% Professional% ligası  NP-ORG ; !  
-Istanbul% ekshembi% ligası:Istanbul% ekshembi% ligası  NP-ORG ; !  
-Istanbul% Jaslar% ligası:Istanbul% Jaslar% ligası  NP-ORG ; !  
-Istanbul% jas% qızlar% ligası:Istanbul% jas% qızlar% ligası  NP-ORG ; !  
-Italiya% basketbol% ligası:Italiya% basketbol% ligası  NP-ORG ; !  
-Italiya% Birinshi% ligası:Italiya% Birinshi% ligası  NP-ORG ; !  
-Italiya% ligası:Italiya% ligası  NP-ORG ; !  
-Izmir% futbol% ligası:Izmir% futbol% ligası  NP-ORG ; !  
-Izmir% ligası:Izmir% ligası  NP-ORG ; !  
-Izmir% Jergilikli% ligası:Izmir% Jergilikli% ligası  NP-ORG ; !  
-Izmir% Professional% ligası:Izmir% Professional% ligası  NP-ORG ; !  
-Izmir% Super% Háweskerler% ligası:Izmir% Super% Háweskerler% ligası  NP-ORG ; !  
-Jáhán% ligası:Jáhán% ligası  NP-ORG ; !  
-Qubla% futbol% ligası:Qubla% futbol% ligası  NP-ORG ; !  
-Juma% ligası:Juma% ligası  NP-ORG ; !  
-Kataloniya% basketbol% ligası:Kataloniya% basketbol% ligası  NP-ORG ; !  
-Kipr% Birinshi% ligası:Kipr% Birinshi% ligası  NP-ORG ; !  
-Kipr% Ekinshi% ligası:Kipr% Ekinshi% ligası  NP-ORG ; !  
-Kipr% Tórtinshi% ligası:Kipr% Tórtinshi% ligası  NP-ORG ; !  
-Kipr% Úshinshi% ligası:Kipr% Úshinshi% ligası  NP-ORG ; !  
-Kolkata% futbol% ligası:Kolkata% futbol% ligası  NP-ORG ; !  
-Qoltıq% chempionlar% ligası:Qoltıq% chempionlar% ligası  NP-ORG ; !  
-Latviya% ligası:Latviya% ligası  NP-ORG ; !  
+Ekinshi% Basketbol% ligası:Ekinshi% Basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Ekinshi% Futbol% ligası:Ekinshi% Futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Ekinshi% liga:Ekinshi% liga  NP-ORG-COMPOUND ; !  
+Indigo% ligası:Indigo% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Ispaniya% basketbol% ligası:Ispaniya% basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Ispaniya% ligası:Ispaniya% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Ispaniya% Superligası:Ispaniya% Superligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Ispaniya% Úshinshi% ligası:Ispaniya% Úshinshi% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Izrail% basketbol% ligası:Izrail% basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Izrail% ligası:Izrail% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Izrail% Superligası:Izrail% Superligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% hayallar% basketbol% ligası:Istanbul% hayallar% basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% hayallar% voleybol% ligası:Istanbul% hayallar% voleybol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% Basketbol% Qızlar% ligası:Istanbul% Basketbol% Qızlar% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% Birinshi% Háweskerler% ligası:Istanbul% Birinshi% Háweskerler% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% háwesker% futbol% ligası:Istanbul% háwesker% futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% Ekinshi% Basketbol% ligası:Istanbul% Ekinshi% Basketbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% Ekinshi% Háweskerler% ligası:Istanbul% Ekinshi% Háweskerler% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% ligası:Istanbul% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% Professional% Futbol% ligası:Istanbul% Professional% Futbol% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% Professional% ligası:Istanbul% Professional% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% ekshembi% ligası:Istanbul% ekshembi% ligası  NP-ORG-COMPOUND-COMPOUND ; !  
+Istanbul% Jaslar% ligası:Istanbul% Jaslar% ligası  NP-ORG-COMPOUND ; !  
+Istanbul% jas% qızlar% ligası:Istanbul% jas% qızlar% ligası  NP-ORG-COMPOUND ; !  
+Italiya% basketbol% ligası:Italiya% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Italiya% Birinshi% ligası:Italiya% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Italiya% ligası:Italiya% ligası  NP-ORG-COMPOUND ; !  
+Izmir% futbol% ligası:Izmir% futbol% ligası  NP-ORG-COMPOUND ; !  
+Izmir% ligası:Izmir% ligası  NP-ORG-COMPOUND ; !  
+Izmir% Jergilikli% ligası:Izmir% Jergilikli% ligası  NP-ORG-COMPOUND ; !  
+Izmir% Professional% ligası:Izmir% Professional% ligası  NP-ORG-COMPOUND ; !  
+Izmir% Super% Háweskerler% ligası:Izmir% Super% Háweskerler% ligası  NP-ORG-COMPOUND ; !  
+Jáhán% ligası:Jáhán% ligası  NP-ORG-COMPOUND ; !  
+Qubla% futbol% ligası:Qubla% futbol% ligası  NP-ORG-COMPOUND ; !  
+Juma% ligası:Juma% ligası  NP-ORG-COMPOUND ; !  
+Kataloniya% basketbol% ligası:Kataloniya% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Kipr% Birinshi% ligası:Kipr% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Kipr% Ekinshi% ligası:Kipr% Ekinshi% ligası  NP-ORG-COMPOUND ; !  
+Kipr% Tórtinshi% ligası:Kipr% Tórtinshi% ligası  NP-ORG-COMPOUND ; !  
+Kipr% Úshinshi% ligası:Kipr% Úshinshi% ligası  NP-ORG-COMPOUND ; !  
+Kolkata% futbol% ligası:Kolkata% futbol% ligası  NP-ORG-COMPOUND ; !  
+Qoltıq% chempionlar% ligası:Qoltıq% chempionlar% ligası  NP-ORG-COMPOUND ; !  
+Latviya% ligası:Latviya% ligası  NP-ORG-COMPOUND ; !  
 Liga% kolledji:Liga% kolledji  NP-ORG ; !  
-Liga% ligası:Liga% ligası  NP-ORG ; !  
+Liga% ligası:Liga% ligası  NP-ORG-COMPOUND ; !  
 Liganiń% Ekstraklasasi:Liganiń% Ekstraklasasi  NP-ORG ; !  
-Litva% Birinshi% Basketbol% ligası:Litva% Birinshi% Basketbol% ligası  NP-ORG ; !  
-Litva% Ekinshi% Basketbol% ligası:Litva% Ekinshi% Basketbol% ligası  NP-ORG ; !  
-Litva% ligası:Litva% ligası  NP-ORG ; !  
-Lombard% ligası:Lombard% ligası  NP-ORG ; !  
-Lotin% ligası:Lotin% ligası  NP-ORG ; !  
-Lyuksemburg% ligası:Lyuksemburg% ligası  NP-ORG ; !  
-Makedoniya% Birinshi% ligası:Makedoniya% Birinshi% ligası  NP-ORG ; !  
-Malayziya% Superligası:Malayziya% Superligası  NP-ORG ; !  
-Maribor% UEFA% Chempionlar% ligası:Maribor% UEFA% Chempionlar% ligası  NP-ORG ; !  
-Máwsim% UEFA% Chempionlar% ligası:Máwsim% UEFA% Chempionlar% ligası  NP-ORG ; !  
-Milliy% Basketbol% ligası:Milliy% Basketbol% ligası  NP-ORG ; !  
-Milliy% beysbol% ligası:Milliy% beysbol% ligası  NP-ORG ; !  
-Milliy% Beyzbol% Amerikalıq% ligası:Milliy% Beyzbol% Amerikalıq% ligası  NP-ORG ; !  
-Milliy% xokkey% ligası:Milliy% xokkey% ligası  NP-ORG ; !  
-Regionlıq% háweskerler% ligası:Regionlıq% háweskerler% ligası  NP-ORG ; !  
-Munitsipalitet% Beko% Basketbol% ligası:Munitsipalitet% Beko% Basketbol% ligası  NP-ORG ; !  
-Navarro% ACB% ligası:Navarro% ACB% ligası  NP-ORG ; !  
-NBA% Basketbol% ligası:NBA% Basketbol% ligası  NP-ORG ; !  
-NLB% ligası:NLB% ligası  NP-ORG ; !  
-Norvegiya% birinshi% ligası:Norvegiya% birinshi% ligası  NP-ORG ; !  
-Ochkolar% ligası:Ochkolar% ligası  NP-ORG ; !  
-Asiya% chempionler% ligası:Asiya% chempionler% ligası  NP-ORG ; !  
-Azerbaydjan% Premer%%-ligası:Azerbaydjan% Premer%%-ligası  NP-ORG ; !  
-ózbek% ligası:ózbek% ligası  NP-ORG ; !  
-PAF% ligası:PAF% ligası  NP-ORG ; !  
-Polsha% basketbol% ligası:Polsha% basketbol% ligası  NP-ORG ; !  
-Polsha% ligası:Polsha% ligası  NP-ORG ; !  
-Polsha% Úshinshi% ligası:Polsha% Úshinshi% ligası  NP-ORG ; !  
-Portugaliya% ligası:Portugaliya% ligası  NP-ORG ; !  
-Portugaliya% Premer%%-ligası:Portugaliya% Premer%%-ligası  NP-ORG ; !  
-Portugaliya% Superligası:Portugaliya% Superligası  NP-ORG ; !  
-Katar% ligası:Katar% ligası  NP-ORG ; !  
-Qızlar% ligası:Qızlar% ligası  NP-ORG ; !  
-Kazaxstan% Super% ligası:Kazaxstan% Super% ligası  NP-ORG ; !  
+Litva% Birinshi% Basketbol% ligası:Litva% Birinshi% Basketbol% ligası  NP-ORG-COMPOUND ; !  
+Litva% Ekinshi% Basketbol% ligası:Litva% Ekinshi% Basketbol% ligası  NP-ORG-COMPOUND ; !  
+Litva% ligası:Litva% ligası  NP-ORG-COMPOUND ; !  
+Lombard% ligası:Lombard% ligası  NP-ORG-COMPOUND ; !  
+Lotin% ligası:Lotin% ligası  NP-ORG-COMPOUND ; !  
+Lyuksemburg% ligası:Lyuksemburg% ligası  NP-ORG-COMPOUND ; !  
+Makedoniya% Birinshi% ligası:Makedoniya% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Malayziya% Superligası:Malayziya% Superligası  NP-ORG-COMPOUND ; !  
+Maribor% UEFA% Chempionlar% ligası:Maribor% UEFA% Chempionlar% ligası  NP-ORG-COMPOUND ; !  
+Máwsim% UEFA% Chempionlar% ligası:Máwsim% UEFA% Chempionlar% ligası  NP-ORG-COMPOUND ; !  
+Milliy% Basketbol% ligası:Milliy% Basketbol% ligası  NP-ORG-COMPOUND ; !  
+Milliy% beysbol% ligası:Milliy% beysbol% ligası  NP-ORG-COMPOUND ; !  
+Milliy% Beyzbol% Amerikalıq% ligası:Milliy% Beyzbol% Amerikalıq% ligası  NP-ORG-COMPOUND ; !  
+Milliy% xokkey% ligası:Milliy% xokkey% ligası  NP-ORG-COMPOUND ; !  
+Regionlıq% háweskerler% ligası:Regionlıq% háweskerler% ligası  NP-ORG-COMPOUND ; !  
+Munitsipalitet% Beko% Basketbol% ligası:Munitsipalitet% Beko% Basketbol% ligası  NP-ORG-COMPOUND ; !  
+Navarro% ACB% ligası:Navarro% ACB% ligası  NP-ORG-COMPOUND ; !  
+NBA% Basketbol% ligası:NBA% Basketbol% ligası  NP-ORG-COMPOUND ; !  
+NLB% ligası:NLB% ligası  NP-ORG-COMPOUND ; !  
+Norvegiya% birinshi% ligası:Norvegiya% birinshi% ligası  NP-ORG-COMPOUND ; !  
+Ochkolar% ligası:Ochkolar% ligası  NP-ORG-COMPOUND ; !  
+Asiya% chempionler% ligası:Asiya% chempionler% ligası  NP-ORG-COMPOUND ; !  
+Azerbaydjan% Premer%%-ligası:Azerbaydjan% Premer%%-ligası  NP-ORG-COMPOUND ; !  
+ózbek% ligası:ózbek% ligası  NP-ORG-COMPOUND ; !  
+PAF% ligası:PAF% ligası  NP-ORG-COMPOUND ; !  
+Polsha% basketbol% ligası:Polsha% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Polsha% ligası:Polsha% ligası  NP-ORG-COMPOUND ; !  
+Polsha% Úshinshi% ligası:Polsha% Úshinshi% ligası  NP-ORG-COMPOUND ; !  
+Portugaliya% ligası:Portugaliya% ligası  NP-ORG-COMPOUND ; !  
+Portugaliya% Premer%%-ligası:Portugaliya% Premer%%-ligası  NP-ORG-COMPOUND ; !  
+Portugaliya% Superligası:Portugaliya% Superligası  NP-ORG-COMPOUND ; !  
+Katar% ligası:Katar% ligası  NP-ORG-COMPOUND ; !  
+Qızlar% ligası:Qızlar% ligası  NP-ORG-COMPOUND ; !  
+Kazaxstan% Super% ligası:Kazaxstan% Super% ligası  NP-ORG-COMPOUND ; !  
 Radikal% shep% koalitsiya:Radikal% shep% koalitsiya  NP-ORG ; !  
-Rossiya% basketbol% ligası:Rossiya% basketbol% ligası  NP-ORG ; !  
-Rossiya% basketbol% super% ligası:Rossiya% basketbol% super% ligası  NP-ORG ; !  
-Rossiya% ligası:Rossiya% ligası  NP-ORG ; !  
-Rossiya% Premer%%-ligası:Rossiya% Premer%%-ligası  NP-ORG ; !  
-Rossiya% Professional% Basketbol% ligası:Rossiya% Professional% Basketbol% ligası  NP-ORG ; !  
-Rossiya% Superligası:Rossiya% Superligası  NP-ORG ; !  
-Ruminiya% ligası:Ruminiya% ligası  NP-ORG ; !  
-Saudiya% Araviyası% Professional% ligası:Saudiya% Araviyası% Professional% ligası  NP-ORG ; !  
+Rossiya% basketbol% ligası:Rossiya% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Rossiya% basketbol% super% ligası:Rossiya% basketbol% super% ligası  NP-ORG-COMPOUND ; !  
+Rossiya% ligası:Rossiya% ligası  NP-ORG-COMPOUND ; !  
+Rossiya% Premer%%-ligası:Rossiya% Premer%%-ligası  NP-ORG-COMPOUND ; !  
+Rossiya% Professional% Basketbol% ligası:Rossiya% Professional% Basketbol% ligası  NP-ORG-COMPOUND ; !  
+Rossiya% Superligası:Rossiya% Superligası  NP-ORG-COMPOUND ; !  
+Ruminiya% ligası:Ruminiya% ligası  NP-ORG-COMPOUND ; !  
+Saudiya% Araviyası% Professional% ligası:Saudiya% Araviyası% Professional% ligası  NP-ORG-COMPOUND ; !  
 Serbiya% armiyası:Serbiya% armiyası  NP-ORG ; !  
-Serbiya% ligası:Serbiya% ligası  NP-ORG ; !  
+Serbiya% ligası:Serbiya% ligası  NP-ORG-COMPOUND ; !  
 Serbiya% parlamenti:Serbiya% parlamenti  NP-ORG ; !  
 Serbiya% sotsialistik% partiyası:Serbiya% sotsialistik% partiyası  NP-ORG ; !  
-Serbiya% Superligası:Serbiya% Superligası  NP-ORG ; !  
+Serbiya% Superligası:Serbiya% Superligası  NP-ORG-COMPOUND ; !  
 Arqa% futbol% ligasıning% wálayatları:Arqa% futbol% ligasıning% wálayatları  NP-ORG ; !  
-Arqa% Amerikalıq% futbol% ligası:Arqa% Amerikalıq% futbol% ligası  NP-ORG ; !  
-Arqa% Kipr% Ekinshi% Futbol% ligası:Arqa% Kipr% Ekinshi% Futbol% ligası  NP-ORG ; !  
-Arqa% liga:Arqa% liga  NP-ORG ; !  
-Shotlandiya% Premer%%-ligası:Shotlandiya% Premer%%-ligası  NP-ORG ; !  
-Shved% ligası:Shved% ligası  NP-ORG ; !  
-Shveytsariya% basketbol% ligası:Shveytsariya% basketbol% ligası  NP-ORG ; !  
-Shveytsariya% ligası:Shveytsariya% ligası  NP-ORG ; !  
-Sloveniya% Basketbol% ligası:Sloveniya% Basketbol% ligası  NP-ORG ; !  
-Sloveniya% ligası:Sloveniya% ligası  NP-ORG ; !  
+Arqa% Amerikalıq% futbol% ligası:Arqa% Amerikalıq% futbol% ligası  NP-ORG-COMPOUND ; !  
+Arqa% Kipr% Ekinshi% Futbol% ligası:Arqa% Kipr% Ekinshi% Futbol% ligası  NP-ORG-COMPOUND ; !  
+Arqa% liga:Arqa% liga  NP-ORG-COMPOUND ; !  
+Shotlandiya% Premer%%-ligası:Shotlandiya% Premer%%-ligası  NP-ORG-COMPOUND ; !  
+Shved% ligası:Shved% ligası  NP-ORG-COMPOUND ; !  
+Shveytsariya% basketbol% ligası:Shveytsariya% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Shveytsariya% ligası:Shveytsariya% ligası  NP-ORG-COMPOUND ; !  
+Sloveniya% Basketbol% ligası:Sloveniya% Basketbol% ligası  NP-ORG-COMPOUND ; !  
+Sloveniya% ligası:Sloveniya% ligası  NP-ORG-COMPOUND ; !  
 Sotsialistik% demokratiyalıq% partiya:Sotsialistik% demokratiyalıq% partiya  NP-ORG ; !  
 Sotsialistik% partiya:Sotsialistik% partiya  NP-ORG ; !  
-Sovet% Ekinshi% ligası:Sovet% Ekinshi% ligası  NP-ORG ; !  
-Sovet% ligası:Sovet% ligası  NP-ORG ; !  
-Sovet% Premer%%-ligası:Sovet% Premer%%-ligası  NP-ORG ; !  
-Spartak% Rossiya% Birinshi% ligası:Spartak% Rossiya% Birinshi% ligası  NP-ORG ; !  
-Super% Liga:Super% Liga  NP-ORG ; !  
-Sistema% Birinshi% futbol% ligası:Sistema% Birinshi% futbol% ligası  NP-ORG ; !  
-Turkcell% Superligası:Turkcell% Superligası  NP-ORG ; !  
-Turkiya% hayallar% basketbol% ligası:Turkiya% hayallar% basketbol% ligası  NP-ORG ; !  
-Turkiya% hayallar% voleybol% ligası:Turkiya% hayallar% voleybol% ligası  NP-ORG ; !  
-Turkiya% basketbol% ligası:Turkiya% basketbol% ligası  NP-ORG ; !  
-Turkiya% Birinshi% ligası:Turkiya% Birinshi% ligası  NP-ORG ; !  
-Turkiya% jeńil% atletika% ligası:Turkiya% jeńil% atletika% ligası  NP-ORG ; !  
-Turkiya% Er% adamlar% voleybol% ligası:Turkiya% Er% adamlar% voleybol% ligası  NP-ORG ; !  
-Turkiya% Futbol% Birinshi% ligası:Turkiya% Futbol% Birinshi% ligası  NP-ORG ; !  
-Turkiya% Futbol% ligası:Turkiya% Futbol% ligası  NP-ORG ; !  
-Turkiya% Ekinshi% milliy% ligası:Turkiya% Ekinshi% milliy% ligası  NP-ORG ; !  
-Turkiya% ligası:Turkiya% ligası  NP-ORG ; !  
-Turkiya% Masatenisi% ligası:Turkiya% Masatenisi% ligası  NP-ORG ; !  
-Turkiya% milliy% futbol% ligası:Turkiya% milliy% futbol% ligası  NP-ORG ; !  
-Turkiyanıń% Basketbol% Birinshi% ligası:Turkiyanıń% Basketbol% Birinshi% ligası  NP-ORG ; !  
-Turkiya% Professional% ligası:Turkiya% Professional% ligası  NP-ORG ; !  
-Turkiya% Saralanǵan% Basketbol% ligası:Turkiya% Saralanǵan% Basketbol% ligası  NP-ORG ; !  
-Turkiya% Superligası:Turkiya% Superligası  NP-ORG ; !  
-Turkiya% Voleybol% ligası:Turkiya% Voleybol% ligası  NP-ORG ; !  
-UEFA% hayallar% chempionlar% ligası:UEFA% hayallar% chempionlar% ligası  NP-ORG ; !  
-UEFA% Chempionlar% ligası:UEFA% Chempionlar% ligası  NP-ORG ; !  
-UEFA% Evropa% ligası:UEFA% Evropa% ligası  NP-ORG ; !  
-Ukraina% ligası:Ukraina% ligası  NP-ORG ; !  
-Ukraina% Premer%%-ligası:Ukraina% Premer%%-ligası  NP-ORG ; !  
-Universitetler% ligası:Universitetler% ligası  NP-ORG ; !  
-Uzaq% basketbol% ligası:Uzaq% basketbol% ligası  NP-ORG ; !  
-Veneto% ligası:Veneto% ligası  NP-ORG ; !  
-Vengriya% ligası:Vengriya% ligası  NP-ORG ; !  
-Viktoriya% shtatı% futbol% ligası:Viktoriya% shtatı% futbol% ligası  NP-ORG ; !  
-Voleybol% boyınsha% hayallar% Evropa% ligası:Voleybol% boyınsha% hayallar% Evropa% ligası  NP-ORG ; !  
-Voleybol% ligası:Voleybol% ligası  NP-ORG ; !  
-VTB% Liga:VTB% Liga  NP-ORG ; !  
-Xalıq% mádeniyatı% ligası:Xalıq% mádeniyatı% ligası  NP-ORG ; !  
+Sovet% Ekinshi% ligası:Sovet% Ekinshi% ligası  NP-ORG-COMPOUND ; !  
+Sovet% ligası:Sovet% ligası  NP-ORG-COMPOUND ; !  
+Sovet% Premer%%-ligası:Sovet% Premer%%-ligası  NP-ORG-COMPOUND ; !  
+Spartak% Rossiya% Birinshi% ligası:Spartak% Rossiya% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Super% Liga:Super% liga  NP-ORG-COMPOUND ; !  
+Sistema% Birinshi% futbol% ligası:Sistema% Birinshi% futbol% ligası  NP-ORG-COMPOUND ; !  
+Turkcell% Superligası:Turkcell% Superligası  NP-ORG-COMPOUND ; !  
+Turkiya% hayallar% basketbol% ligası:Turkiya% hayallar% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% hayallar% voleybol% ligası:Turkiya% hayallar% voleybol% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% basketbol% ligası:Turkiya% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Birinshi% ligası:Turkiya% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% jeńil% atletika% ligası:Turkiya% jeńil% atletika% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Er% adamlar% voleybol% ligası:Turkiya% Er% adamlar% voleybol% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Futbol% Birinshi% ligası:Turkiya% Futbol% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Futbol% ligası:Turkiya% Futbol% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Ekinshi% milliy% ligası:Turkiya% Ekinshi% milliy% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% ligası:Turkiya% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Masatenisi% ligası:Turkiya% Masatenisi% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% milliy% futbol% ligası:Turkiya% milliy% futbol% ligası  NP-ORG-COMPOUND ; !  
+Turkiyanıń% Basketbol% Birinshi% ligası:Turkiyanıń% Basketbol% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Professional% ligası:Turkiya% Professional% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Saralanǵan% Basketbol% ligası:Turkiya% Saralanǵan% Basketbol% ligası  NP-ORG-COMPOUND ; !  
+Turkiya% Superligası:Turkiya% Superligası  NP-ORG-COMPOUND ; !  
+Turkiya% Voleybol% ligası:Turkiya% Voleybol% ligası  NP-ORG-COMPOUND ; !  
+UEFA% hayallar% chempionlar% ligası:UEFA% hayallar% chempionlar% ligası  NP-ORG-COMPOUND ; !  
+UEFA% Chempionlar% ligası:UEFA% Chempionlar% ligası  NP-ORG-COMPOUND ; !  
+UEFA% Evropa% ligası:UEFA% Evropa% ligası  NP-ORG-COMPOUND ; !  
+Ukraina% ligası:Ukraina% ligası  NP-ORG-COMPOUND ; !  
+Ukraina% Premer%%-ligası:Ukraina% Premer%%-ligası  NP-ORG-COMPOUND ; !  
+Universitetler% ligası:Universitetler% ligası  NP-ORG-COMPOUND ; !  
+Uzaq% basketbol% ligası:Uzaq% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Veneto% ligası:Veneto% ligası  NP-ORG-COMPOUND ; !  
+Vengriya% ligası:Vengriya% ligası  NP-ORG-COMPOUND ; !  
+Viktoriya% shtatı% futbol% ligası:Viktoriya% shtatı% futbol% ligası  NP-ORG-COMPOUND ; !  
+Voleybol% boyınsha% hayallar% Evropa% ligası:Voleybol% boyınsha% hayallar% Evropa% ligası  NP-ORG-COMPOUND ; !  
+Voleybol% ligası:Voleybol% ligası  NP-ORG-COMPOUND ; !  
+VTB% Liga:VTB% liga  NP-ORG-COMPOUND ; !  
+Xalıq% mádeniyatı% ligası:Xalıq% mádeniyatı% ligası  NP-ORG-COMPOUND ; !  
 Kitay% Mámleketlik% keńesi:Kitay% Mámleketlik% keńesi  NP-ORG ; !  
-Xokkey% boyınsha% hayallar% milliy% ligası:Xokkey% boyınsha% hayallar% milliy% ligası  NP-ORG ; !  
-Xorvatiya% basketbol% ligası:Xorvatiya% basketbol% ligası  NP-ORG ; !  
-Xorvatiya% ligası:Xorvatiya% ligası  NP-ORG ; !  
-Xristian% ligası:Xristian% ligası  NP-ORG ; !  
-Yaponiya% ligası:Yaponiya% ligası  NP-ORG ; !  
-Evropa% chempionlar% ligası:Evropa% chempionlar% ligası  NP-ORG ; !  
+Xokkey% boyınsha% hayallar% milliy% ligası:Xokkey% boyınsha% hayallar% milliy% ligası  NP-ORG-COMPOUND ; !  
+Xorvatiya% basketbol% ligası:Xorvatiya% basketbol% ligası  NP-ORG-COMPOUND ; !  
+Xorvatiya% ligası:Xorvatiya% ligası  NP-ORG-COMPOUND ; !  
+Xristian% ligası:Xristian% ligası  NP-ORG-COMPOUND ; !  
+Yaponiya% ligası:Yaponiya% ligası  NP-ORG-COMPOUND ; !  
+Evropa% chempionlar% ligası:Evropa% chempionlar% ligası  NP-ORG-COMPOUND ; !  
 Evropa% komissiyası:Evropa% komissiyası  NP-ORG ; !  
-Evropa% ligası:Evropa% ligası  NP-ORG ; !  
+Evropa% ligası:Evropa% ligası  NP-ORG-COMPOUND ; !  
 Evropa% parlamenti:Evropa% parlamenti  NP-ORG ; !  
 Evropa% hám% sırtqı% siyasat% fondı:Evropa% hám% sırtqı% siyasat% fondı  NP-ORG ; !  
-Jabılıw% ligası:Jabılıw% ligası  NP-ORG ; !  
-Jaslar% ligası:Jaslar% ligası  NP-ORG ; !  
-Jaslar% voleybol% ligası:Jaslar% voleybol% ligası  NP-ORG ; !  
-Yuba% ligası:Yuba% ligası  NP-ORG ; !  
-Yugoslav% Birinshi% ligası:Yugoslav% Birinshi% ligası  NP-ORG ; !  
-Yugoslaviya% Birinshi% ligası:Yugoslaviya% Birinshi% ligası  NP-ORG ; !  
-Yugoslaviya% Ekinshi% ligası:Yugoslaviya% Ekinshi% ligası  NP-ORG ; !  
-Yugoslaviya% ligası:Yugoslaviya% ligası  NP-ORG ; !  
-Juldızlar% CAF% chempionlar% ligası:Juldızlar% CAF% chempionlar% ligası  NP-ORG ; !  
+Jabılıw% ligası:Jabılıw% ligası  NP-ORG-COMPOUND ; !  
+Jaslar% ligası:Jaslar% ligası  NP-ORG-COMPOUND ; !  
+Jaslar% voleybol% ligası:Jaslar% voleybol% ligası  NP-ORG-COMPOUND ; !  
+Yuba% ligası:Yuba% ligası  NP-ORG-COMPOUND ; !  
+Yugoslav% Birinshi% ligası:Yugoslav% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Yugoslaviya% Birinshi% ligası:Yugoslaviya% Birinshi% ligası  NP-ORG-COMPOUND ; !  
+Yugoslaviya% Ekinshi% ligası:Yugoslaviya% Ekinshi% ligası  NP-ORG-COMPOUND ; !  
+Yugoslaviya% ligası:Yugoslaviya% ligası  NP-ORG-COMPOUND ; !  
+Juldızlar% CAF% chempionlar% ligası:Juldızlar% CAF% chempionlar% ligası  NP-ORG-COMPOUND ; !  
 
 Abdal:Abdal  NP-ANT-M ; !  
 Abdujalil:Abdujalil  NP-ANT-M ; !  
