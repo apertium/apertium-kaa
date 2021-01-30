@@ -3816,8 +3816,9 @@ taqır:taqır N1 ; ! ""
 taraq:taraq N1 ; ! ""
 taraw:taraw N1 ; ! ""
 tarelka:tarelka N1 ; ! ""
-tariyx:tariyx%{ꙑ%} N1 ; ! ""
-tariyxshı:tariyxshı N1 ; ! ""
+tariyx:tariyx%{ꙑ%} N1 ; ! "history"
+tariyx:tariyx N1 ;   ! "history" Dir/LR 
+tariyxshı:tariyxshı N1 ; ! "historian"
 tarmaq:tarmaq N1 ; ! ""
 tas% shóp:tas% shóp N1 ; ! ""
 tas:tas N1 ; ! ""
@@ -5471,7 +5472,7 @@ tańǵı:tańǵı A2 ; ! ""
 tanlawlı:tanlawlı A2 ; ! ""
 tanıs:tanıs A2 ; ! ""
 tar:tar A1 ; ! ""
-tariyxıy:tariyxıy A1 ; ! ""
+tariyxıy:tariyxıy A1 ; ! "historical"
 tatıw:tatıw A1 ; ! ""
 tawlı:tawlı A2 ; ! ""
 tegin:tegin A1 ; ! ""
@@ -27367,9 +27368,6 @@ táriple:táriple V-IV ;
 táriple:táriple V-TV ;
 táriplew:táriplew # ;
 tárip:tárip N1 ;
-tariyxiy:tariyxiy N1 ;
-tariyxshı:tariyxshı N1 ;
-tariyx:tariyx N1 ;
 tarıǵıw:tarıǵıw # ;
 tarıl:tarıl V-IV ;
 tarılt:tarılt V-TV-CAUS ;
