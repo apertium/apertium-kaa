@@ -4045,7 +4045,8 @@ xabar:xabar N1 ; ! ""
 xabarlama:xabarlama N1 ; ! ""
 xabarlılıq:xabarlılıq N1 ; ! ""
 xalifat:xalifat N1 ; ! ""
-xalıq:xal%{y%}q N1 ; ! ""
+xalıq:xal%{y%}q N1 ; ! "people"
+xalıq:xalıq N1 ; ! "people" Dir/LR
 xalıqlıq:xalıqlıq N1 ; ! ""
 xamsa:xamsa N1 ; ! ""
 xan:xan N1 ; ! ""
@@ -19492,6 +19493,7 @@ nacizm:nacizm N1 ;
 nadanlıq:nadanlıq N1 ;
 nadan:nadan A2 ;
 nadanshılıq:nadanshılıq N1 ;
+nadurıs:nadurıs A1 ;
 nadurıslıq:nadurıslıq N1 ;
 nadzor:nadzor N1 ;
 naftalin:naftalin A1 ;
@@ -20481,6 +20483,7 @@ osıt:osıt V-TV-CAUS ;
 osıw:osıw # ;
 óskinlik:óskinlik N1 ;
 óskin:óskin N1 ;
+osmanlı:osmanlı N1-NAT ;
 ós:ós V-IV ;
 óspirim:óspirim N1 ;
 osqır:osqır V-IV ;
@@ -29666,9 +29669,7 @@ xakas:xakas N1 ;
 xalfelik:xalfelik N1 ;
 xalfe:xalfe N1 ;
 xaliyfa:xaliyfa N1 ;
-xalıqlıq:xalıqlıq N1 ;
 xalıqshı:xalıqshı N1 ;
-xalıq:xalıq N1 ;
 xanala:xanala V-IV ;
 xanala:xanala V-TV ;
 xana:xana N1 ;
