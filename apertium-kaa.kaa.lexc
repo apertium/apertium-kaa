@@ -1467,6 +1467,7 @@ sonday%-aq:sonday%-aq CC ; ! ""
 ya:ya CC ; ! ""
 yamasa:yamasa CC ; ! ""
 yaki:yaki CC ; ! ""
+bolsa:bolsa CC ; ! "as far as X goes"
 
 eger:eger CS ; ! ""
 egerde:egerde CS ; ! ""
@@ -1548,6 +1549,7 @@ qurlı:qurlı POST ; ! ""
 maqsetınde:maqsetınde POST ; ! ""
 muwapıq:muwapıq POST ; ! ""
 penen:penen POST ; ! ""
+salıstırǵanda:salıstırǵanda POST ; ! "compared to"
 sayın:sayın POST ; ! ""
 sáykes:sáykes POST ; ! ""
 shama% menen:shama% menen POST ; ! ""
@@ -5437,8 +5439,7 @@ sintaksislik:sintaksislik A2 ; ! ""
 sintetikalıq:sintetikalıq A2 ; ! ""
 siyrek:siyrek A1 ; ! ""
 sovetlik:sovetlik A2 ; ! ""
-sol:sol A1 ; ! ""
-sońǵı:sońǵı A1 ; ! ""
+!sol:sol A1 ; ! ""
 sorlı:sorlı A2 ; ! ""
 social:social A2 ; ! ""
 sociallıq:sociallıq A2 ; ! ""
@@ -15023,6 +15024,7 @@ jaltıraw:jaltıraw # ;
 jaltırla:jaltırla V-TV ;
 jaltırlan:jaltırlan V-IV-REFL ;
 jalt:jalt V-IV ;
+jámáát:jámáát N1 ;
 jámáátles:jámáátles V-IV ;
 jama:jama V-IV ;
 jama:jama V-TV ;
@@ -23341,7 +23343,7 @@ qorǵasınla:qorǵasınla V-TV ;
 qorǵasın:qorǵasın N1 ;
 qorǵatıw:qorǵatıw # ;
 qorǵat:qorǵat V-TV-CAUS ;
-qorǵaw:qorǵaw # ;
+qorǵaw:qorǵaw N1 ;
 qorǵawshılıq:qorǵawshılıq N1 ;
 qorǵawshı:qorǵawshı N1 ;
 qorılda:qorılda V-IV ;
@@ -26470,7 +26472,8 @@ sóndiril:sóndiril V-TV ;
 sóndiriw:sóndiriw # ;
 sóndir:sóndir V-TV-CAUS ;
 sóndirt:sóndirt V-TV-CAUS ;
-sońǵı:sońǵı A2 ;
+sońǵı:sońǵı A2 ; ! FIXME: CHECK
+sońǵı:sońǵı A1 ; ! ""
 sóniw:sóniw # ;
 sońıraq:sońıraq N1 ;
 sonı:sonı N1 ;
