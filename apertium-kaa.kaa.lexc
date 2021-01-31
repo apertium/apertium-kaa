@@ -1679,7 +1679,7 @@ hesh% qanday:hesh% qanday DET-NEG ; ! ""
 
 qay:qay DET-ITG ; ! "which"
 qaysı:qaysı DET-ITG ; ! ""
-kim:kim DET-ITG ; ! ""
+!kim:kim DET-ITG ; ! ""
 
 óz:óz DET-REF ;
 
@@ -3927,7 +3927,7 @@ tún:tún N1 ; ! ""
 túp:túp N1 ; ! ""
 túr:túr N1 ; ! ""
 túrik:túrik N1 ; ! ""
-túrk:túrk N1 ; ! ""
+túrk:túrk N1-NAT ; ! ""
 túrkmen:túrkmen N1 ; ! ""
 túrme:túrme N1 ; ! ""
 túrtki:túrtki N1 ; ! ""
@@ -4207,6 +4207,7 @@ Afrika:Afrika NP-TOP ; ! ""
 Tashkent:Tashkent NP-TOP ; ! ""
 Istanbul:Istanbul NP-TOP ; ! ""
 Túrkiya:Túrkiya NP-TOP ; ! ""
+Túrkiya:Túrkiye NP-TOP ; ! "" ! Dir/LR
 Yerusalim:Yerusalim NP-TOP ; ! ""
 Hindstan:Hindstan NP-TOP ; ! ""
 Anglya:Anglya NP-TOP ; ! ""
