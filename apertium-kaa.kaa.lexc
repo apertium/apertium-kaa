@@ -538,9 +538,14 @@ CLIT-QST ;
 CLIT-MOD ;
 CLIT-GHANA-ETC ;
 
+LEXICON OTHER-CLITICS
+
+%+she%<post%>:she # ; ! x kadar  FIXME: CHECK
+
 LEXICON CLIT-COP
 
 %+e%<cop%>%<aor%>: V-PERS-S1 ;
+OTHER-CLITICS ;
 
 LEXICON CLITICS-INCL-COP         ! Can appear only after nominals
                                  ! (and only after some cases).
