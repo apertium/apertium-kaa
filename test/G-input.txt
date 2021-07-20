@@ -1,0 +1,24 @@
+# [twol] {G}{ъ} becomes g'
+jılg'a
+maqalag'a
+adamg'a
+qılg'an
+bolg'an
+# [twol] {G}{ъ} becomes g
+tilge
+kelgen
+# [twol] {G}{ъ} becomes k
+ma'mleketke
+ketken
+ishken
+# [twol] {G}{ъ} becomes q
+kitapqa
+soqqan
+# [twol] q stays q
+tarmaqqa
+# [twol] q becomes g'
+tarmag'ı
+# [twol] k stays k
+bilezikke
+# [twol] k becomes g
+bilezigi

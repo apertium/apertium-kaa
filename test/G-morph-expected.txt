@@ -1,0 +1,32 @@
+[3DQTfKrJu9P4#0] ^tarmag/*tarmag$^'/'<apos>/ʻ<apos>$^ı/*ı$
+[/3DQTfKrJu9P4]
+[8_AJeHDoCLnz#0] ^tarmaqqa/tarmaq<n><dat>$
+[/8_AJeHDoCLnz]
+[E0Qm1tNk-HqQ#0] ^ketken/ket<vaux><gpr_past>/ket<v><iv><gpr_past>/ket<vaux><ger_past><nom>/ket<v><iv><ger_past><nom>/ket<vaux><past><p3><pl>/ket<vaux><past><p3><sg>/ket<vaux><gpr_past><subst><nom>/ket<v><iv><past><p3><pl>/ket<v><iv><past><p3><sg>/ket<v><iv><gpr_past><subst><nom>$
+[/E0Qm1tNk-HqQ]
+[IAs4hGm2M7tm#0] ^soqqan/soq<v><iv><gpr_past>/soq<v><iv><ger_past><nom>/soq<v><iv><past><p3><pl>/soq<v><iv><past><p3><sg>/soq<v><iv><gpr_past><subst><nom>$
+[/IAs4hGm2M7tm]
+[QLtDk7HVS27G#0] ^kelgen/kel<v><iv><gpr_past>/kel<v><iv><ger_past><nom>/kel<v><iv><past><p3><pl>/kel<v><iv><past><p3><sg>/kel<v><iv><gpr_past><subst><nom>$
+[/QLtDk7HVS27G]
+[XP13HT77m4lq#0] ^maqalag/*maqalag$^'/'<apos>/ʻ<apos>$^a/*a$
+[/XP13HT77m4lq]
+[_fthU9YRPJqv#0] ^bilezigi/bilezik<n><px3sp><nom>/bilezik<n><px3sp><nom>+e<cop><aor><p3><pl>/bilezik<n><px3sp><nom>+e<cop><aor><p3><sg>$
+[/_fthU9YRPJqv]
+[hBT2Z2LJXb6a#0] ^adamg/*adamg$^'/'<apos>/ʻ<apos>$^a/*a$
+[/hBT2Z2LJXb6a]
+[ja3Nr2jyBclu#0] ^bolg/*bolg$^'/'<apos>/ʻ<apos>$^an/*an$
+[/ja3Nr2jyBclu]
+[jqgo0mY5RsvR#0] ^ma/ma<qst>/ma<n><nom>/ma<n><attr>/ma<n><nom>+e<cop><aor><p3><pl>/ma<n><nom>+e<cop><aor><p3><sg>$^'/'<apos>/ʻ<apos>$^mleketke/*mleketke$
+[/jqgo0mY5RsvR]
+[r87V-vZc2KrU#0] ^jılg/*jılg$^'/'<apos>/ʻ<apos>$^a/*a$
+[/r87V-vZc2KrU]
+[t6-bJ3_fJpGY#0] ^ishken/ish<v><tv><gpr_past>/ish<v><tv><ger_past><nom>/ish<v><tv><past><p3><pl>/ish<v><tv><past><p3><sg>/ish<v><tv><gpr_past><subst><nom>$
+[/t6-bJ3_fJpGY]
+[tGHXtWG7lenC#0] ^qılg/*qılg$^'/'<apos>/ʻ<apos>$^an/*an$
+[/tGHXtWG7lenC]
+[ugZL-Cpiaf5P#0] ^kitapqa/kitap<n><dat>$
+[/ugZL-Cpiaf5P]
+[ySJsWooguBSg#0] ^bilezikke/bilezik<n><dat>$
+[/ySJsWooguBSg]
+[znRdaIYT5RJ7#0] ^tilge/til<n><dat>/til<adj><subst><dat>$
+[/znRdaIYT5RJ7]

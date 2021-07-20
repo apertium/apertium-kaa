@@ -169,3 +169,6 @@ docs: FORCE
 	cd docs; scribble index.scrbl
 
 FORCE:
+
+test: all
+	apertium-regtest test

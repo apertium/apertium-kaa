@@ -20,3 +20,8 @@
 /tests/morphotactics/*.txt.gz
 kaa.autogen.hfst 
 kaa.automorf.hfst
+/*.hfst
+/*.zhfst
+/.DS_Store
+/*-*.prob
+/test/*-output.txt

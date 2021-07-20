@@ -1,0 +1,24 @@
+# [twol] {G}{ъ} becomes g'
+^jıl<n><dat>$
+^maqala<n><dat>$
+^adam<n><dat>$
+^qıl<v><tv><past><p3><sg>$
+^bol<v><iv><past><p3><sg>$
+# [twol] {G}{ъ} becomes g
+^til<n><dat>$
+^kel<v><iv><past><p3><sg>$
+# [twol] {G}{ъ} becomes k
+^ma'mleket<n><dat>$
+^ket<v><iv><past><p3><sg>$
+^ish<v><tv><past><p3><sg>$
+# [twol] {G}{ъ} becomes q
+^kitap<n><dat>$
+^soq<v><iv><past><p3><sg>$
+# [twol] q stays q
+^tarmaq<n><dat>$
+# [twol] q becomes g'
+^tarmaq<n><px3sp><nom>$
+# [twol] k stays k
+^bilezik<n><dat>$
+# [twol] k becomes g
+^bilezik<n><px3sp><nom>$

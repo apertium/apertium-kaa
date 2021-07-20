@@ -1,0 +1,18 @@
+{
+  "G": {
+    "input": "G-input.txt",
+    "mode": "kaa-morph"
+  },
+  "G-gen": {
+    "input": "G-gen-input.txt",
+    "mode": "kaa-gener"
+  },
+  "nums": {
+    "input": "nums-input.txt",
+    "mode": "kaa-morph"
+  },
+  "nums-gen": {
+    "input": "nums-gen-input.txt",
+    "mode": "kaa-gener"
+  }
+}
