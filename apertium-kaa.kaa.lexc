@@ -5881,7 +5881,7 @@ mońǵolsha:mońǵolsha ADV-LANG ; ! "Mongol" Dir/LR
 mordvasha:mordvasha ADV-LANG ; ! ""
 nemisshe:nemisshe ADV-LANG ; ! "German"
 orıssha:orıssha ADV-LANG ; ! "Russian"
-ózbekshe:ózbekshe ADV-LANG ; ! "Uzbek"
+ózbekshe:ózbekshe A1 ; ! "Uzbek"
 parsısha:parsısha ADV-LANG ; ! "Persian"
 polyaksha:polyaksha ADV-LANG ; ! ""
 tatarsha:tatarsha ADV-LANG ; ! "Tatar"
@@ -7333,6 +7333,7 @@ qoy:qoy V-TV ; ! ""
 qolayla:qolayla V-TV ; ! ""
 qolla:qolla V-TV ; ! ""
 qollan:qollan V-TV ; ! ""
+qollanba:qollanba N1 ; !
 qondır:qondır V-TV ; ! ""
 ornalastır:ornalastır V-TV ; ! ""
 bosat:bosat V-TV ; ! ""
@@ -9976,7 +9977,12 @@ barabarlastır:barabarlastır V-TV-CAUS ;
 barabarlıq:barabarlıq N1 ;
 barak:barak A1 ;
 baraq:baraq N1 ;
-bar:bar V-TV ;
+bar:bar A2 ; ! 
+bar:bar A2 ; ! "there is"
+bar:barıw VERB-IV ; ! "to reach"
+bar:bar V-IV ; ! 
+bar:por N1 ; ! 
+bar%-bud:bar%-bud N1 ; ! 
 bardaslı:bardaslı A2 ;
 bárekelle:bárekelle IJ ;
 barer:barer N1 ;
@@ -28618,6 +28624,7 @@ túsim:túsim N1 ;
 túsinbeslik:túsinbeslik N1 ;
 túsinbewshilik:túsinbewshilik N1 ;
 túsindirgish:túsindirgish N1 ;
+túsindirme:túsindirme N1 ;
 túsindiriw:túsindiriw N1 ;
 túsindir:túsindir V-TV-CAUS ;
 túsingish:túsingish A2 ;
@@ -29402,6 +29409,7 @@ uyqasımlı:uyqasımlı A2 ;
 uyqasımsız:uyqasımsız A1 ;
 uyqasıq:uyqasıq N1 ;
 uyqaslan:uyqaslan V-IV-REFL ;
+uyqas:uyqas N1 ;
 uyqas:uyqas A2 ;
 uyqas:uyqas V-IV ;
 uyqas:uyqas V-IV-REFL ;
