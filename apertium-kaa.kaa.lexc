@@ -10605,7 +10605,7 @@ biylewshilik:biylewshilik N1 ;
 biylik:biylik N1 ;
 biyliksiz:biyliksiz A1 ;
 biymáhál:biymáhál A1 ;
-biymálel:biymálel N1 ;
+biymálel:biymálel A1 ;
 biymálim:biymálim A1 ;
 biymáni:biymáni A2 ;
 biymaza:biymaza A1 ;
@@ -11571,6 +11571,9 @@ dás:dás N1 ;
 dáske:dáske N1 ;
 dáskeli:dáskeli A2 ;
 dáslep:dáslep N1 ;
+dáslep:dáslep A1 ; ! 
+dáslep:dáslep ADV-ATTR ; ! 
+dáslep:dáslep POST-ABL ; ! 
 dáslepki:dáslepki A2 ;
 dáslepkidey:dáslepkidey N1 ;
 dasmal:dasmal N1 ;
@@ -20747,6 +20750,7 @@ ozıw:ozıw # ;
 ózlestiril:ózlestiril V-TV-CAUS ;
 ózlestiriw:ózlestiriw # ;
 óz:óz A1 ;
+ózgeshe:ózgeshe A1 ; ! 0.8891186322700112
 pachka:pachka N1 ;
 pacient:pacient N1 ;
 pacifizm:pacifizm N1 ;
@@ -21933,6 +21937,7 @@ qandayınan:qandayınan N1 ;
 qandayına:qandayına N1 ;
 qandayınsha:qandayınsha N1 ;
 qandaylıq:qandaylıq N1 ;
+qanday:qanday # ; ! 0.9126343253383722
 qanday:qanday ADV-ITG ;
 qanday:qanday PRON-ITG-INFL ; ! "which one"
 qándekli:qándekli A2 ;
@@ -25643,7 +25648,8 @@ shıǵınsız:shıǵınsız A1 ;
 shıǵırshıq:shıǵırshıq N1 ;
 shıǵıs:shıǵıs N1 ;
 shıǵıs:shıǵıs V-IV ;
-shıǵuw:shıǵuw N1 ;
+shıǵıw:shıǵıw V-IV ; ! 0.5545678788187246
+shıǵıw:shıǵıw N1 ; ! 0.9639326574651971
 shıj%-bıj:shıj%-bıj A1 ;
 shıjǵırıw:shıjǵırıw # ;
 shıjǵır:shıjǵır V-IV ;
