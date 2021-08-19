@@ -5030,6 +5030,7 @@ grafikalıq:grafikalıq A2 ; ! ""
 gumanislik:gumanislik A2 ; ! ""
 gumanitarlıq:gumanitarlıq A2 ; ! ""
 ilimiy:ilimiy A1 ; ! ""
+ilimiy:ilimiy N1 ; ! 0.8903932688018387
 mudamı:mudamı A1 ; ! ""
 tayın:tayın A1 ; ! ""
 dara:dara A1 ; ! ""
@@ -7827,6 +7828,7 @@ ajarlı:ajarlı A2 ;
 ajarsız:ajarsız A1 ;
 ajarsızlan:ajarsızlan V-IV ;
 ajdarha:ajdarha N1 ;
+ajdad:ajdad : N1 ; 
 ajıral:ajıral V-IV ;
 ajıralıs:ajıralıs V-IV-COOP ;
 ajıral:ajıral V-IV ;
@@ -11014,7 +11016,7 @@ bulań:bulań N1 ;
 bulańla:bulańla V-TV ;
 bulaq:bulaq N1 ;
 búlbil:búlbil N1 ;
-bul:bul N1 ;
+bul:bul PRON-DEM-BU ; ! "this"
 búldir:búldir # ;
 búldirge:búldirge N1 ;
 búldirgi:búldirgi N1 ;
@@ -19171,7 +19173,8 @@ mırtıq:mırtıq N1 ;
 mırzalıq:mırzalıq N1 ;
 mırza:mırza N1 ;
 mırzasımaq:mırzasımaq N1 ;
-mısalı:mısalı A2 ;
+mısalı:mısalı CA ; ! "for example"
+mısalı:mısalı N1 ; !
 mısallı:mısallı A2 ;
 mısal:mısal N1 ;
 mısh%-mısh:mısh%-mısh V-IV ;
