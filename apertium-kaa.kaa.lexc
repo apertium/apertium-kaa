@@ -1996,6 +1996,7 @@ alap:alap N1 ; ! ""
 alban:alban N1 ; ! ""
 ald:ald N1 ; ! ""
 aldı:aldı N1 ; ! ""
+aldınnan:aldınnan ADV ; ! "0.9922355837075885"
 alfavit:alfavit N1 ; ! ""
 alǵıs:alǵıs N1 ; ! ""
 aljapqısh:aljapqısh N1 ; ! ""
@@ -7823,12 +7824,11 @@ ajar:ajar N1 ;
 ajarlan:ajarlan V-IV ;
 ajarlandır:ajarlandır V-TV-CAUS ;
 ajarlant:ajarlant V-TV-CAUS ;
-ajarlan:ajarlan V-IV ;
 ajarlı:ajarlı A2 ;
 ajarsız:ajarsız A1 ;
 ajarsızlan:ajarsızlan V-IV ;
 ajdarha:ajdarha N1 ;
-ajdad:ajdad : N1 ; 
+ajdad:ajdad N1 ; 
 ajıral:ajıral V-IV ;
 ajıralıs:ajıralıs V-IV-COOP ;
 ajıral:ajıral V-IV ;
@@ -9311,7 +9311,7 @@ awel:awel ADV-ATTR ;
 áwerele:áwerele V-TV ;
 áwereshilik:áwereshilik N1 ;
 áwesek:áwesek A2 ;
-áwlad:áwlad N1 ;
+áwlát:áwlát N1 ;
 áwliye:áwliye N1 ;
 áwliyelik:áwliyelik N1 ;
 áwliyeshilik:áwliyeshilik N1 ;
@@ -18867,7 +18867,7 @@ meliorativ:meliorativ N1 ;
 melle:melle A2 ;
 melshiy:melshiy V-IV ;
 memuar:memuar N1 ;
-menen:menen N1 ;
+menen:menen POST ;
 meńgeril:meńgeril V-TV ;
 meńgeriu:meńgeriu V-IV ;
 meńgeriwshi:meńgeriwshi N1 ;
@@ -20357,6 +20357,7 @@ orınlan:orınlan V-IV-REFL ;
 orınla:orınla V-IV ;
 orınla:orınla V-TV ;
 orınlatıl:orınlatıl V-TV ;
+orınlaw:orınlaw V-IV-COOP ; ! 
 orınlawshı:orınlawshı N1 ;
 orınlı:orınlı A2 ;
 orın:orın N1 ;
@@ -21070,7 +21071,7 @@ paydakúnem:paydakúnem N1 ;
 paydalanılıw:paydalanılıw # ;
 paydalanıl:paydalanıl V-TV ;
 paydalanıs:paydalanıs V-TV-COOP ;
-paydalanıw:paydalanıw # ;
+paydalanıw:paydalanıw N1 ;
 paydalanıwshı:paydalanıwshı N1 ;
 paydalan:paydalan V-IV-REFL ;
 paydalantıw:paydalantıw # ;
