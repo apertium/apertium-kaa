@@ -6161,6 +6161,7 @@ sandalıp% júr:sandalıp% júr V-IV ; ! ""
 erin:erin V-IV ; ! ""
 es:es V-IV ; ! ""
 amanlas:amanlas V-IV ; ! ""
+esapla:esapla V-IV ;
 esaplas:esaplas V-IV ; ! ""
 eserlen:eserlen V-IV ; ! ""
 tenteklik% et:tenteklik% et V-IV ; ! ""
@@ -9237,6 +9238,7 @@ aya:aya V-TV ;
 álxámdulla:álxámdulla IJ ;
 ámeki:ámeki N1 ;
 ámel:ámel N1 ;
+ámeliy:ámeliy A1 ;
 ámeldar:ámeldar N1 ;
 ámelle:ámelle V-TV ;
 ámelles:ámelles V-TV-COOP ;
@@ -17484,6 +17486,7 @@ klassiklik:klassiklik N1 ;
 klassız:klassız A1 ;
 klass:klass N1 ;
 klasslıq:klasslıq N1 ;
+klaviatura:klaviatura N1 ;
 kletka:kletka N1 ;
 kleyonka:kleyonka N1 ;
 klient:klient N1 ;
@@ -19282,6 +19285,7 @@ monshaqla:monshaqla V-IV ;
 monshaqla:monshaqla V-TV ;
 monshaq:monshaq N1 ;
 monshashı:monshashı N1 ;
+monitor:monitor N1 ;
 montaj:montaj N1 ;
 mónteńle:mónteńle V-IV ;
 mónteńlew:mónteńlew # ;
@@ -21071,13 +21075,11 @@ paydakesh:paydakesh N1 ;
 paydakúnemlen:paydakúnemlen V-IV ;
 paydakúnemlik:paydakúnemlik N1 ;
 paydakúnem:paydakúnem N1 ;
-paydalan:paydalan V-IV ;
+paydalan:paydalan V-TV ;
 paydalanılıw:paydalanılıw # ;
-paydalanıl:paydalanıl V-TV ;
-paydalanıs:paydalanıs V-TV-COOP ;
 paydalanıw:paydalanıw N1 ;
 paydalanıwshı:paydalanıwshı N1 ;
-paydalan:paydalan V-IV-REFL ;
+! paydalan:paydalan V-IV-REFL ;
 paydalantıw:paydalantıw # ;
 paydalılıq:paydalılıq N1 ;
 paydalı:paydalı A2 ;
@@ -21462,6 +21464,7 @@ prikazlı:prikazlı A2 ;
 prikaz:prikaz N1 ;
 principiallılıq:principiallılıq N1 ;
 principiallı:principiallı A2 ;
+printer:printer N1;
 pristav:pristav N1 ;
 priyomnik:priyomnik N1 ;
 prizmalıq:prizmalıq N1 ;
@@ -29562,6 +29565,7 @@ vetnamlı:vetnamlı A2 ;
 Vetnam:Vetnam # ;
 vilka:vilka N1 ;
 vinegret:vinegret N1 ;
+vinchester:vinchester N1;
 vino:vino A1 ;
 vintle:vintle V-TV ;
 vintlew:vintlew # ;
@@ -29909,6 +29913,7 @@ zarlı:zarlı A2 ;
 zarp:zarp N1 ;
 zárre:zárre N1 ;
 zárteń%-zeberteń:zárteń%-zeberteń V-IV ;
+zárúr:zárúr A1 ;
 zárúrlik:zárúrlik N1 ;
 zárúrli:zárúrli A2 ;
 zárur:zárur A1 ;
