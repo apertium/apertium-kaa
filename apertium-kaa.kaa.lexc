@@ -5030,6 +5030,7 @@ grafikalıq:grafikalıq A2 ; ! ""
 gumanislik:gumanislik A2 ; ! ""
 gumanitarlıq:gumanitarlıq A2 ; ! ""
 ilimiy:ilimiy A1 ; ! ""
+ilimiy:ilimiy N1 ; ! 0.8903932688018387
 mudamı:mudamı A1 ; ! ""
 tayın:tayın A1 ; ! ""
 dara:dara A1 ; ! ""
@@ -6159,6 +6160,7 @@ sandalıp% júr:sandalıp% júr V-IV ; ! ""
 erin:erin V-IV ; ! ""
 es:es V-IV ; ! ""
 amanlas:amanlas V-IV ; ! ""
+esapla:esapla V-TV ;
 esaplas:esaplas V-IV ; ! ""
 eserlen:eserlen V-IV ; ! ""
 tenteklik% et:tenteklik% et V-IV ; ! ""
@@ -7333,6 +7335,7 @@ qoy:qoy V-TV ; ! ""
 qolayla:qolayla V-TV ; ! ""
 qolla:qolla V-TV ; ! ""
 qollan:qollan V-TV ; ! ""
+qollanba:qollanba N1 ; !
 qondır:qondır V-TV ; ! ""
 ornalastır:ornalastır V-TV ; ! ""
 bosat:bosat V-TV ; ! ""
@@ -7821,11 +7824,11 @@ ajar:ajar N1 ;
 ajarlan:ajarlan V-IV ;
 ajarlandır:ajarlandır V-TV-CAUS ;
 ajarlant:ajarlant V-TV-CAUS ;
-ajarlan:ajarlan V-IV ;
 ajarlı:ajarlı A2 ;
 ajarsız:ajarsız A1 ;
 ajarsızlan:ajarsızlan V-IV ;
 ajdarha:ajdarha N1 ;
+ajdad:ajdad N1 ; 
 ajıral:ajıral V-IV ;
 ajıralıs:ajıralıs V-IV-COOP ;
 ajıral:ajıral V-IV ;
@@ -9234,6 +9237,7 @@ aya:aya V-TV ;
 álxámdulla:álxámdulla IJ ;
 ámeki:ámeki N1 ;
 ámel:ámel N1 ;
+ámeliy:ámeliy A1 ;
 ámeldar:ámeldar N1 ;
 ámelle:ámelle V-TV ;
 ámelles:ámelles V-TV-COOP ;
@@ -9308,7 +9312,7 @@ awel:awel ADV-ATTR ;
 áwerele:áwerele V-TV ;
 áwereshilik:áwereshilik N1 ;
 áwesek:áwesek A2 ;
-áwlad:áwlad N1 ;
+áwlát:áwlát N1 ;
 áwliye:áwliye N1 ;
 áwliyelik:áwliyelik N1 ;
 áwliyeshilik:áwliyeshilik N1 ;
@@ -9976,7 +9980,10 @@ barabarlastır:barabarlastır V-TV-CAUS ;
 barabarlıq:barabarlıq N1 ;
 barak:barak A1 ;
 baraq:baraq N1 ;
-bar:bar V-TV ;
+bar:bar A2 ; ! "there is"
+bar:barıw VERB-IV ; ! "to go"
+bar:bar V-IV ; !
+bar%-bud:bar%-bud N1 ; ! 
 bardaslı:bardaslı A2 ;
 bárekelle:bárekelle IJ ;
 barer:barer N1 ;
@@ -10473,6 +10480,7 @@ bint:bint N1 ;
 biografiya:biografiya N1 ;
 biografiyalıq:biografiyalıq N1 ;
 biologiya:biologiya N1 ;
+biosxema:biosxema N1 ; 
 birak:birak # ;
 biraqta:biraqta N1 ;
 bir:bir A2 ;
@@ -10599,7 +10607,7 @@ biylewshilik:biylewshilik N1 ;
 biylik:biylik N1 ;
 biyliksiz:biyliksiz A1 ;
 biymáhál:biymáhál A1 ;
-biymálel:biymálel N1 ;
+biymálel:biymálel A1 ;
 biymálim:biymálim A1 ;
 biymáni:biymáni A2 ;
 biymaza:biymaza A1 ;
@@ -11008,7 +11016,7 @@ bulań:bulań N1 ;
 bulańla:bulańla V-TV ;
 bulaq:bulaq N1 ;
 búlbil:búlbil N1 ;
-bul:bul N1 ;
+bul:bul PRON-DEM-BU ; ! "this"
 búldir:búldir # ;
 búldirge:búldirge N1 ;
 búldirgi:búldirgi N1 ;
@@ -11565,6 +11573,9 @@ dás:dás N1 ;
 dáske:dáske N1 ;
 dáskeli:dáskeli A2 ;
 dáslep:dáslep N1 ;
+dáslep:dáslep A1 ; ! 
+dáslep:dáslep ADV-ATTR ; ! 
+dáslep:dáslep POST-ABL ; ! 
 dáslepki:dáslepki A2 ;
 dáslepkidey:dáslepkidey N1 ;
 dasmal:dasmal N1 ;
@@ -17472,6 +17483,7 @@ klassiklik:klassiklik N1 ;
 klassız:klassız A1 ;
 klass:klass N1 ;
 klasslıq:klasslıq N1 ;
+klaviatura:klaviatura N1 ;
 kletka:kletka N1 ;
 kleyonka:kleyonka N1 ;
 klient:klient N1 ;
@@ -18856,7 +18868,7 @@ meliorativ:meliorativ N1 ;
 melle:melle A2 ;
 melshiy:melshiy V-IV ;
 memuar:memuar N1 ;
-menen:menen N1 ;
+menen:menen POST ;
 meńgeril:meńgeril V-TV ;
 meńgeriu:meńgeriu V-IV ;
 meńgeriwshi:meńgeriwshi N1 ;
@@ -18964,6 +18976,8 @@ mikrob:mikrob N1 ;
 mikrofon:mikrofon N1 ;
 mikron:mikron N1 ;
 mikroskop:mikroskop N1-NAT ;
+mikrosxema:mikrosxema N1;
+mikroelektron:mikroelektron N1;
 milicioner:milicioner N1 ;
 miliciya:miliciya N1 ;
 militaristlik:militaristlik N1 ;
@@ -19162,8 +19176,9 @@ mırtıq:mırtıq N1 ;
 mırzalıq:mırzalıq N1 ;
 mırza:mırza N1 ;
 mırzasımaq:mırzasımaq N1 ;
-mısalı:mısalı A2 ;
-mısallı:mısallı A2 ;
+mısalı:mısalı CA ; ! "for example"
+mısalı:mısalı N1 ; !
+mısallı:mısallı IJ ;
 mısal:mısal N1 ;
 mısh%-mısh:mısh%-mısh V-IV ;
 mıskerlik:mıskerlik N1 ;
@@ -19267,6 +19282,7 @@ monshaqla:monshaqla V-IV ;
 monshaqla:monshaqla V-TV ;
 monshaq:monshaq N1 ;
 monshashı:monshashı N1 ;
+monitor:monitor N1 ;
 montaj:montaj N1 ;
 mónteńle:mónteńle V-IV ;
 mónteńlew:mónteńlew # ;
@@ -20741,6 +20757,7 @@ ozıw:ozıw # ;
 ózlestiril:ózlestiril V-TV-CAUS ;
 ózlestiriw:ózlestiriw # ;
 óz:óz A1 ;
+ózgeshe:ózgeshe A1 ; ! 0.8891186322700112
 pachka:pachka N1 ;
 pacient:pacient N1 ;
 pacifizm:pacifizm N1 ;
@@ -21054,12 +21071,11 @@ paydakesh:paydakesh N1 ;
 paydakúnemlen:paydakúnemlen V-IV ;
 paydakúnemlik:paydakúnemlik N1 ;
 paydakúnem:paydakúnem N1 ;
+paydalan:paydalan V-TV ;
 paydalanılıw:paydalanılıw # ;
-paydalanıl:paydalanıl V-TV ;
-paydalanıs:paydalanıs V-TV-COOP ;
-paydalanıw:paydalanıw # ;
+paydalanıw:paydalanıw N1 ;
 paydalanıwshı:paydalanıwshı N1 ;
-paydalan:paydalan V-IV-REFL ;
+! paydalan:paydalan V-IV-REFL ;
 paydalantıw:paydalantıw # ;
 paydalılıq:paydalılıq N1 ;
 paydalı:paydalı A2 ;
@@ -21444,6 +21460,7 @@ prikazlı:prikazlı A2 ;
 prikaz:prikaz N1 ;
 principiallılıq:principiallılıq N1 ;
 principiallı:principiallı A2 ;
+printer:printer N1;
 pristav:pristav N1 ;
 priyomnik:priyomnik N1 ;
 prizmalıq:prizmalıq N1 ;
@@ -25613,6 +25630,7 @@ shıda:shıda V-TV ;
 shıdas:shıdas V-TV-COOP ;
 shıdat:shıdat V-TV-CAUS ;
 shıdaw:shıdaw # ;
+shıq:shıq V-IV;
 shıǵadı:shıǵadı # ;
 shıǵanaqla:shıǵanaqla V-IV ;
 shıǵanaqla:shıǵanaqla V-TV ;
@@ -25636,8 +25654,8 @@ shıǵınsızlıq:shıǵınsızlıq N1 ;
 shıǵınsız:shıǵınsız A1 ;
 shıǵırshıq:shıǵırshıq N1 ;
 shıǵıs:shıǵıs N1 ;
-shıǵıs:shıǵıs V-IV ;
-shıǵuw:shıǵuw N1 ;
+shıǵıw:shıǵıw V-IV ; ! 0.5545678788187246
+shıǵıw:shıǵıw N1 ; ! 0.9639326574651971
 shıj%-bıj:shıj%-bıj A1 ;
 shıjǵırıw:shıjǵırıw # ;
 shıjǵır:shıjǵır V-IV ;
@@ -26484,6 +26502,8 @@ sońıraq:sońıraq N1 ;
 sonı:sonı N1 ;
 sonlıqtan:sonlıqtan N1 ;
 sonnan:sonnan N1 ;
+sonnan:sonnan A1 ; ! "next"
+sonnan:sonnan ADV ; ! "later"
 sonsha:sonsha N1 ;
 son:son N1 ;
 soń:soń N1 ;
@@ -28448,6 +28468,7 @@ traktorshı:traktorshı N1 ;
 traktor:traktor N1 ;
 transkripciya:transkripciya N1 ;
 transportyor:transportyor N1 ;
+tranzistor:tranzistor N1; 
 trapeciya:trapeciya N1 ;
 tribuna:tribuna N1 ;
 trusı:trusı N1 ;
@@ -28618,6 +28639,7 @@ túsim:túsim N1 ;
 túsinbeslik:túsinbeslik N1 ;
 túsinbewshilik:túsinbewshilik N1 ;
 túsindirgish:túsindirgish N1 ;
+túsindirme:túsindirme N1 ;
 túsindiriw:túsindiriw N1 ;
 túsindir:túsindir V-TV-CAUS ;
 túsingish:túsingish A2 ;
@@ -29402,6 +29424,7 @@ uyqasımlı:uyqasımlı A2 ;
 uyqasımsız:uyqasımsız A1 ;
 uyqasıq:uyqasıq N1 ;
 uyqaslan:uyqaslan V-IV-REFL ;
+uyqas:uyqas N1 ;
 uyqas:uyqas A2 ;
 uyqas:uyqas V-IV ;
 uyqas:uyqas V-IV-REFL ;
@@ -29537,6 +29560,7 @@ vetnamlı:vetnamlı A2 ;
 Vetnam:Vetnam # ;
 vilka:vilka N1 ;
 vinegret:vinegret N1 ;
+vinchester:vinchester N1;
 vino:vino A1 ;
 vintle:vintle V-TV ;
 vintlew:vintlew # ;
@@ -29884,6 +29908,7 @@ zarlı:zarlı A2 ;
 zarp:zarp N1 ;
 zárre:zárre N1 ;
 zárteń%-zeberteń:zárteń%-zeberteń V-IV ;
+zárúr:zárúr A1 ;
 zárúrlik:zárúrlik N1 ;
 zárúrli:zárúrli A2 ;
 zárur:zárur A1 ;
